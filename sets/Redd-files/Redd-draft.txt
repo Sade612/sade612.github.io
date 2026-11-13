@@ -1,0 +1,6605 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Safehold Sentry",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/0.png"
+			}
+		},
+		{
+			"name": "Whitemane Lion",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Flash Creature — Cat",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/1.png"
+			}
+		},
+		{
+			"name": "Mistmeadow Skulk",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Kithkin Rogue",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/2.png"
+			}
+		},
+		{
+			"name": "Squall Drifter",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Snow Creature — Elemental",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/3.png"
+			}
+		},
+		{
+			"name": "Extraction Specialist",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/4.png"
+			}
+		},
+		{
+			"name": "Bant Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/5.png"
+			}
+		},
+		{
+			"name": "D'Avenant Healer",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric Archer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/6.png"
+			}
+		},
+		{
+			"name": "Priests of Norn",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/7.png"
+			}
+		},
+		{
+			"name": "Doomed Traveler",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/8.png"
+			}
+		},
+		{
+			"name": "Kami of False Hope",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/9.png"
+			}
+		},
+		{
+			"name": "Encampment Keeper",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Dog",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/10.png"
+			}
+		},
+		{
+			"name": "Mosquito Guard",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Kithkin Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/11.png"
+			}
+		},
+		{
+			"name": "Crush Contraband",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/12.png"
+			}
+		},
+		{
+			"name": "Arcbound Town",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/13.png"
+			}
+		},
+		{
+			"name": "Spectral Procession",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/14.png"
+			}
+		},
+		{
+			"name": "Cenn's Enlistment",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/15.png"
+			}
+		},
+		{
+			"name": "Saltblast",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/16.png"
+			}
+		},
+		{
+			"name": "Dusk",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/17.png"
+			}
+		},
+		{
+			"name": "Cursebreaker's Judgment",
+			"rarity": "special",
+			"mana_cost": "{6}{W}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/18.png"
+			}
+		},
+		{
+			"name": "Ephemeral Dust",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/19.png"
+			}
+		},
+		{
+			"name": "Pentarch Ward",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Simple Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/20.png"
+			}
+		},
+		{
+			"name": "Triclopean Sight",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Flash Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/21.png"
+			}
+		},
+		{
+			"name": "Oblivion Ring",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/22.png"
+			}
+		},
+		{
+			"name": "Thornwind Faeries",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/23.png"
+			}
+		},
+		{
+			"name": "Esper Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/24.png"
+			}
+		},
+		{
+			"name": "Nimbus Naiad",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/25.png"
+			}
+		},
+		{
+			"name": "Æther Adept",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/26.png"
+			}
+		},
+		{
+			"name": "Leech Bonder",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/27.png"
+			}
+		},
+		{
+			"name": "Disruptive Pitmage",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/28.png"
+			}
+		},
+		{
+			"name": "Tolarian Emissary",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/29.png"
+			}
+		},
+		{
+			"name": "Voidmage Apprentice",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/30.png"
+			}
+		},
+		{
+			"name": "Wall of Deceit",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/31.png"
+			}
+		},
+		{
+			"name": "Plaxmanta",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Flash Creature — Elemental",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/32.png"
+			}
+		},
+		{
+			"name": "Shore Keeper",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Trilobite",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/33.png"
+			}
+		},
+		{
+			"name": "Vortex Elemental",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/34.png"
+			}
+		},
+		{
+			"name": "Commit",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/35.png"
+			}
+		},
+		{
+			"name": "Blinding Spray",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/36.png"
+			}
+		},
+		{
+			"name": "Dismal Failure",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/37.png"
+			}
+		},
+		{
+			"name": "Hindering Touch",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/38.png"
+			}
+		},
+		{
+			"name": "Ray of Command",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/39.png"
+			}
+		},
+		{
+			"name": "Mass Manipulation",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{U}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/40.png"
+			}
+		},
+		{
+			"name": "Swirling Torrent",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/41.png"
+			}
+		},
+		{
+			"name": "Treasure Cruise",
+			"rarity": "special",
+			"mana_cost": "{7}{U}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/42.png"
+			}
+		},
+		{
+			"name": "Unstable Mutation",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/43.png"
+			}
+		},
+		{
+			"name": "Threads of Disloyalty",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/44.png"
+			}
+		},
+		{
+			"name": "Slimebind",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Flash Enchantment — Aura",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/45.png"
+			}
+		},
+		{
+			"name": "Nullpriest of Oblivion",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/46.png"
+			}
+		},
+		{
+			"name": "Sewer Shambler",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/47.png"
+			}
+		},
+		{
+			"name": "Grixis Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/48.png"
+			}
+		},
+		{
+			"name": "Fleshbag Marauder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/49.png"
+			}
+		},
+		{
+			"name": "Spiteful Returned",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Zombie",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/50.png"
+			}
+		},
+		{
+			"name": "Baleful Eidolon",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/51.png"
+			}
+		},
+		{
+			"name": "Thrull Parasite",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Thrull",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/52.png"
+			}
+		},
+		{
+			"name": "Ruthless Ripper",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/53.png"
+			}
+		},
+		{
+			"name": "Blight Keeper",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/54.png"
+			}
+		},
+		{
+			"name": "Pilfering Imp",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/55.png"
+			}
+		},
+		{
+			"name": "Alley Strangler",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/56.png"
+			}
+		},
+		{
+			"name": "Sworn Nemesis",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/57.png"
+			}
+		},
+		{
+			"name": "Cutthroat Maneuver",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/58.png"
+			}
+		},
+		{
+			"name": "Snuff Out",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/59.png"
+			}
+		},
+		{
+			"name": "Ritual of Soot",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/60.png"
+			}
+		},
+		{
+			"name": "Gruesome Menagerie",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/61.png"
+			}
+		},
+		{
+			"name": "Necropotence",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/62.png"
+			}
+		},
+		{
+			"name": "Never",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/63.png"
+			}
+		},
+		{
+			"name": "Incremental Blight",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/64.png"
+			}
+		},
+		{
+			"name": "Unburial Rites",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/65.png"
+			}
+		},
+		{
+			"name": "Dead Weight",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/66.png"
+			}
+		},
+		{
+			"name": "Boon of Emrakul",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/67.png"
+			}
+		},
+		{
+			"name": "Dance of the Dead",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/68.png"
+			}
+		},
+		{
+			"name": "Vithian Sting-Shaman",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/69.png"
+			}
+		},
+		{
+			"name": "Jund Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/70.png"
+			}
+		},
+		{
+			"name": "Stormcaller of Keranos",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/71.png"
+			}
+		},
+		{
+			"name": "Twinscroll Shaman",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Shaman",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/72.png"
+			}
+		},
+		{
+			"name": "Spearpoint Oread",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/73.png"
+			}
+		},
+		{
+			"name": "Ghost-Lit Raider",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/74.png"
+			}
+		},
+		{
+			"name": "Thunderscape Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/75.png"
+			}
+		},
+		{
+			"name": "Goblin Cratermaker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/76.png"
+			}
+		},
+		{
+			"name": "Jeering Instigator",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/77.png"
+			}
+		},
+		{
+			"name": "Rustrazor Butcher",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/78.png"
+			}
+		},
+		{
+			"name": "Nyxborn Rollicker",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Satyr",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/79.png"
+			}
+		},
+		{
+			"name": "Fire Shrine Keeper",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/80.png"
+			}
+		},
+		{
+			"name": "Lightning Blast",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/81.png"
+			}
+		},
+		{
+			"name": "Flame Javelin",
+			"rarity": "special",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Flash Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/82.png"
+			}
+		},
+		{
+			"name": "Slice and Dice",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/83.png"
+			}
+		},
+		{
+			"name": "Insult",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/84.png"
+			}
+		},
+		{
+			"name": "Flame Wave",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/85.png"
+			}
+		},
+		{
+			"name": "Fire Whip",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/86.png"
+			}
+		},
+		{
+			"name": "Seal of Fire",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/87.png"
+			}
+		},
+		{
+			"name": "Mizzium Tank",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/88.png"
+			}
+		},
+		{
+			"name": "Kujar Seedsculptor",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/89.png"
+			}
+		},
+		{
+			"name": "Ixalli's Keeper",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/90.png"
+			}
+		},
+		{
+			"name": "Spined Karok",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/91.png"
+			}
+		},
+		{
+			"name": "Spore Frog",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Frog",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/92.png"
+			}
+		},
+		{
+			"name": "Citanul Woodreaders",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/93.png"
+			}
+		},
+		{
+			"name": "Juvenile Gloomwidow",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/94.png"
+			}
+		},
+		{
+			"name": "Rootwalla",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/95.png"
+			}
+		},
+		{
+			"name": "Jade Mage",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/96.png"
+			}
+		},
+		{
+			"name": "Naya Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/97.png"
+			}
+		},
+		{
+			"name": "Werebear",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Bear",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/98.png"
+			}
+		},
+		{
+			"name": "Thornscape Battlemage",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/99.png"
+			}
+		},
+		{
+			"name": "Steeple Creeper",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog Snake",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/100.png"
+			}
+		},
+		{
+			"name": "Sudden Reclamation",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Flash Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/101.png"
+			}
+		},
+		{
+			"name": "Reap and Sow",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/102.png"
+			}
+		},
+		{
+			"name": "Hunt the Weak",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/103.png"
+			}
+		},
+		{
+			"name": "Enlarge",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/104.png"
+			}
+		},
+		{
+			"name": "Tower Above",
+			"rarity": "special",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/105.png"
+			}
+		},
+		{
+			"name": "Creeping Mold",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/106.png"
+			}
+		},
+		{
+			"name": "Feral Incarnation",
+			"rarity": "special",
+			"mana_cost": "{8}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/107.png"
+			}
+		},
+		{
+			"name": "Mouth",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/108.png"
+			}
+		},
+		{
+			"name": "Tiger Claws",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Flash Enchantment — Aura",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/109.png"
+			}
+		},
+		{
+			"name": "Fecundity",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/110.png"
+			}
+		},
+		{
+			"name": "Seal of Strength",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/111.png"
+			}
+		},
+		{
+			"name": "Azorius Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Creature — Vedalken Wizard",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/112.png"
+			}
+		},
+		{
+			"name": "New Prahv Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/113.png"
+			}
+		},
+		{
+			"name": "Senate Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/114.png"
+			}
+		},
+		{
+			"name": "Lawmage's Binding",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Flash Enchantment — Aura",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/115.png"
+			}
+		},
+		{
+			"name": "Farm",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/116.png"
+			}
+		},
+		{
+			"name": "Dimir Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/117.png"
+			}
+		},
+		{
+			"name": "House Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/118.png"
+			}
+		},
+		{
+			"name": "Duskmantle Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/119.png"
+			}
+		},
+		{
+			"name": "Rags",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/120.png"
+			}
+		},
+		{
+			"name": "Consign",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/121.png"
+			}
+		},
+		{
+			"name": "Rakdos Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Creature — Zombie Shaman",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/122.png"
+			}
+		},
+		{
+			"name": "Rix Maadi Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/123.png"
+			}
+		},
+		{
+			"name": "Cult Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/124.png"
+			}
+		},
+		{
+			"name": "Poison the Well",
+			"rarity": "special",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/125.png"
+			}
+		},
+		{
+			"name": "Cut",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/126.png"
+			}
+		},
+		{
+			"name": "Gruul Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/127.png"
+			}
+		},
+		{
+			"name": "Skarrg Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/128.png"
+			}
+		},
+		{
+			"name": "Clan Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/129.png"
+			}
+		},
+		{
+			"name": "Fires of Yavimaya",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/130.png"
+			}
+		},
+		{
+			"name": "Struggle",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/131.png"
+			}
+		},
+		{
+			"name": "Selesnya Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/132.png"
+			}
+		},
+		{
+			"name": "Vitu-Ghazi Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/133.png"
+			}
+		},
+		{
+			"name": "Conclave Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/134.png"
+			}
+		},
+		{
+			"name": "Steward of Valeron",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Druid Knight",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/135.png"
+			}
+		},
+		{
+			"name": "Captured Sunlight",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/136.png"
+			}
+		},
+		{
+			"name": "Prepare",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/137.png"
+			}
+		},
+		{
+			"name": "Orzhov Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/138.png"
+			}
+		},
+		{
+			"name": "Vizkopa Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/139.png"
+			}
+		},
+		{
+			"name": "Syndicate Guildmage",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/140.png"
+			}
+		},
+		{
+			"name": "Grind",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/141.png"
+			}
+		},
+		{
+			"name": "Start",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/142.png"
+			}
+		},
+		{
+			"name": "Izzet Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/143.png"
+			}
+		},
+		{
+			"name": "Nivix Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/144.png"
+			}
+		},
+		{
+			"name": "League Guildmage",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/145.png"
+			}
+		},
+		{
+			"name": "Refuse",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/146.png"
+			}
+		},
+		{
+			"name": "Reduce",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/147.png"
+			}
+		},
+		{
+			"name": "Golgari Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/148.png"
+			}
+		},
+		{
+			"name": "Korozda Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/149.png"
+			}
+		},
+		{
+			"name": "Swarm Guildmage",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/150.png"
+			}
+		},
+		{
+			"name": "Rendclaw Trow",
+			"rarity": "special",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Troll",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/151.png"
+			}
+		},
+		{
+			"name": "Driven",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/152.png"
+			}
+		},
+		{
+			"name": "Destined",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/153.png"
+			}
+		},
+		{
+			"name": "Boros Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/154.png"
+			}
+		},
+		{
+			"name": "Sunhome Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/155.png"
+			}
+		},
+		{
+			"name": "Legion Guildmage",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/156.png"
+			}
+		},
+		{
+			"name": "Onward",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/157.png"
+			}
+		},
+		{
+			"name": "Leave",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/158.png"
+			}
+		},
+		{
+			"name": "Simic Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/159.png"
+			}
+		},
+		{
+			"name": "Zameck Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/160.png"
+			}
+		},
+		{
+			"name": "Combine Guildmage",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/161.png"
+			}
+		},
+		{
+			"name": "Spring",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/162.png"
+			}
+		},
+		{
+			"name": "Reason",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/163.png"
+			}
+		},
+		{
+			"name": "Bant Sureblade",
+			"rarity": "special",
+			"mana_cost": "{G/U}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/164.png"
+			}
+		},
+		{
+			"name": "Rhox War Monk",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Rhino Monk",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/165.png"
+			}
+		},
+		{
+			"name": "Esper Stormblade",
+			"rarity": "special",
+			"mana_cost": "{W/B}{U}",
+			"type": "Artifact Creature — Vedalken Wizard",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/166.png"
+			}
+		},
+		{
+			"name": "Esper Sojourners",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Vedalken Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/167.png"
+			}
+		},
+		{
+			"name": "Punish Ignorance",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{U}{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/168.png"
+			}
+		},
+		{
+			"name": "Grixis Grimblade",
+			"rarity": "special",
+			"mana_cost": "{U/R}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/169.png"
+			}
+		},
+		{
+			"name": "Kederekt Creeper",
+			"rarity": "special",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/170.png"
+			}
+		},
+		{
+			"name": "Jund Hackblade",
+			"rarity": "special",
+			"mana_cost": "{B/G}{R}",
+			"type": "Creature — Goblin Berserker",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/171.png"
+			}
+		},
+		{
+			"name": "Jund Sojourners",
+			"rarity": "special",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Viashino Shaman",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/172.png"
+			}
+		},
+		{
+			"name": "Naya Hushblade",
+			"rarity": "special",
+			"mana_cost": "{R/W}{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/173.png"
+			}
+		},
+		{
+			"name": "Woolly Thoctar",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/174.png"
+			}
+		},
+		{
+			"name": "Raze Realm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/175.png"
+			}
+		},
+		{
+			"name": "Temur Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{U}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/176.png"
+			}
+		},
+		{
+			"name": "Planar Ebb",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/177.png"
+			}
+		},
+		{
+			"name": "Jeskai Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/178.png"
+			}
+		},
+		{
+			"name": "Abzan Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{B}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/179.png"
+			}
+		},
+		{
+			"name": "Sultai Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{G}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/180.png"
+			}
+		},
+		{
+			"name": "Punish Obstinance",
+			"rarity": "special",
+			"mana_cost": "{G}{U}{U}{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/181.png"
+			}
+		},
+		{
+			"name": "Mardu Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{W}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/182.png"
+			}
+		},
+		{
+			"name": "Witness the End",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/183.png"
+			}
+		},
+		{
+			"name": "Who What When Where Why",
+			"rarity": "special",
+			"mana_cost": "{8}{W}{U}{B}{R}{G}",
+			"type": "Flash Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/184.png"
+			}
+		},
+		{
+			"name": "Jackpot",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/185.png"
+			}
+		},
+		{
+			"name": "Legacy Blast",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/186.png"
+			}
+		},
+		{
+			"name": "Brainpick",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/187.png"
+			}
+		},
+		{
+			"name": "Timewaster",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/188.png"
+			}
+		},
+		{
+			"name": "Myr Sire",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/189.png"
+			}
+		},
+		{
+			"name": "Phyrexian Digester",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Phyrexian Construct",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/190.png"
+			}
+		},
+		{
+			"name": "Sky Skiff",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/191.png"
+			}
+		},
+		{
+			"name": "Sleek Schooner",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/192.png"
+			}
+		},
+		{
+			"name": "Fireshrieker",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/193.png"
+			}
+		},
+		{
+			"name": "Flayer Husk",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/194.png"
+			}
+		},
+		{
+			"name": "Blight Sickle",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/195.png"
+			}
+		},
+		{
+			"name": "Greatsword",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/196.png"
+			}
+		},
+		{
+			"name": "Prying Blade",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/197.png"
+			}
+		},
+		{
+			"name": "Mask of Memory",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/198.png"
+			}
+		},
+		{
+			"name": "Elixir of Immortality",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/199.png"
+			}
+		},
+		{
+			"name": "Phyrexian Vault",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/200.png"
+			}
+		},
+		{
+			"name": "Carnage Altar",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/201.png"
+			}
+		},
+		{
+			"name": "Whirlermaker",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/202.png"
+			}
+		},
+		{
+			"name": "Precious Quarry",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Treasure Fox",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/203.png"
+			}
+		},
+		{
+			"name": "Hymn of the Wilds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/204.png"
+			}
+		},
+		{
+			"name": "Backup Plan",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/205.png"
+			}
+		},
+		{
+			"name": "Sentinel Dispatch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/206.png"
+			}
+		},
+		{
+			"name": "Power Play",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/207.png"
+			}
+		},
+		{
+			"name": "Advantageous Proclamation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/208.png"
+			}
+		},
+		{
+			"name": "Fieldmist Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/209.png"
+			}
+		},
+		{
+			"name": "Mistvein Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/210.png"
+			}
+		},
+		{
+			"name": "Veinfire Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/211.png"
+			}
+		},
+		{
+			"name": "Firewild Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/212.png"
+			}
+		},
+		{
+			"name": "Wildfield Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/213.png"
+			}
+		},
+		{
+			"name": "Fieldvein Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/214.png"
+			}
+		},
+		{
+			"name": "Mistfire Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/215.png"
+			}
+		},
+		{
+			"name": "Veinwild Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/216.png"
+			}
+		},
+		{
+			"name": "Firefield Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/217.png"
+			}
+		},
+		{
+			"name": "Wildmist Chamber",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Slow Artifact",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/218.png"
+			}
+		},
+		{
+			"name": "Talisman of Progress",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/219.png"
+			}
+		},
+		{
+			"name": "Talisman of Dominance",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/220.png"
+			}
+		},
+		{
+			"name": "Talisman of Indulgence",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/221.png"
+			}
+		},
+		{
+			"name": "Talisman of Impulse",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/222.png"
+			}
+		},
+		{
+			"name": "Talisman of Unity",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/223.png"
+			}
+		},
+		{
+			"name": "Talisman of Hierarchy",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/224.png"
+			}
+		},
+		{
+			"name": "Talisman of Creativity",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/225.png"
+			}
+		},
+		{
+			"name": "Talisman of Resilience",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/226.png"
+			}
+		},
+		{
+			"name": "Talisman of Conviction",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/227.png"
+			}
+		},
+		{
+			"name": "Talisman of Curiosity",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/228.png"
+			}
+		},
+		{
+			"name": "Ash-Eye Prowler",
+			"rarity": "special",
+			"mana_cost": "{C}{W/U}",
+			"type": "Flash Creature — Horror",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/229.png"
+			}
+		},
+		{
+			"name": "Quickwing Prowler",
+			"rarity": "special",
+			"mana_cost": "{C}{U/B}",
+			"type": "Creature — Horror",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/230.png"
+			}
+		},
+		{
+			"name": "Brimstone Prowler",
+			"rarity": "special",
+			"mana_cost": "{C}{B/R}",
+			"type": "Creature — Horror",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/231.png"
+			}
+		},
+		{
+			"name": "Furystoke Prowler",
+			"rarity": "special",
+			"mana_cost": "{C}{R/G}",
+			"type": "Creature — Horror",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/232.png"
+			}
+		},
+		{
+			"name": "Steward of the Void",
+			"rarity": "special",
+			"mana_cost": "{C}{G/W}",
+			"type": "Creature — Horror",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/233.png"
+			}
+		},
+		{
+			"name": "Chaos Drinker",
+			"rarity": "special",
+			"mana_cost": "{C}{W/B}",
+			"type": "Creature — Horror",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/234.png"
+			}
+		},
+		{
+			"name": "Arcane Witness",
+			"rarity": "special",
+			"mana_cost": "{C}{U/R}",
+			"type": "Creature — Horror",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/235.png"
+			}
+		},
+		{
+			"name": "Sludgepoker",
+			"rarity": "special",
+			"mana_cost": "{C}{B/G}",
+			"type": "Creature — Horror",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/236.png"
+			}
+		},
+		{
+			"name": "Nuclear Prowler",
+			"rarity": "special",
+			"mana_cost": "{C}{R/W}",
+			"type": "Creature — Horror",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/237.png"
+			}
+		},
+		{
+			"name": "Overthinker",
+			"rarity": "special",
+			"mana_cost": "{C}{G/U}",
+			"type": "Creature — Horror",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/238.png"
+			}
+		},
+		{
+			"name": "Fieldmist Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{W}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/239.png"
+			}
+		},
+		{
+			"name": "Mistvein Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/240.png"
+			}
+		},
+		{
+			"name": "Veinfire Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{B}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/241.png"
+			}
+		},
+		{
+			"name": "Firewild Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{R}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/242.png"
+			}
+		},
+		{
+			"name": "Wildfield Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{G}{W}",
+			"type": "Creature — Horror",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/243.png"
+			}
+		},
+		{
+			"name": "Fieldvein Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{W}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/244.png"
+			}
+		},
+		{
+			"name": "Mistfire Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{U}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/245.png"
+			}
+		},
+		{
+			"name": "Veinwild Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{B}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/246.png"
+			}
+		},
+		{
+			"name": "Firefield Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{R}{W}",
+			"type": "Creature — Horror",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/247.png"
+			}
+		},
+		{
+			"name": "Wildmist Ravager",
+			"rarity": "special",
+			"mana_cost": "{C}{G}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/248.png"
+			}
+		},
+		{
+			"name": "Nullfield Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/249.png"
+			}
+		},
+		{
+			"name": "Nullmist Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/250.png"
+			}
+		},
+		{
+			"name": "Nullvein Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/251.png"
+			}
+		},
+		{
+			"name": "Nullfire Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/252.png"
+			}
+		},
+		{
+			"name": "Nullwild Druid",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/253.png"
+			}
+		},
+		{
+			"name": "Nullfield Entourage",
+			"rarity": "special",
+			"mana_cost": "{C}{W}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/254.png"
+			}
+		},
+		{
+			"name": "Nullmist Entourage",
+			"rarity": "special",
+			"mana_cost": "{C}{U}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/255.png"
+			}
+		},
+		{
+			"name": "Nullvein Entourage",
+			"rarity": "special",
+			"mana_cost": "{C}{B}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/256.png"
+			}
+		},
+		{
+			"name": "Nullfire Entourage",
+			"rarity": "special",
+			"mana_cost": "{C}{R}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/257.png"
+			}
+		},
+		{
+			"name": "Nullwild Entourage",
+			"rarity": "special",
+			"mana_cost": "{C}{G}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/258.png"
+			}
+		},
+		{
+			"name": "Nullfield Envoy",
+			"rarity": "special",
+			"mana_cost": "{C}{2/W}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/259.png"
+			}
+		},
+		{
+			"name": "Nullmist Envoy",
+			"rarity": "special",
+			"mana_cost": "{C}{2/U}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/260.png"
+			}
+		},
+		{
+			"name": "Nullvein Envoy",
+			"rarity": "special",
+			"mana_cost": "{C}{2/B}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/261.png"
+			}
+		},
+		{
+			"name": "Nullfire Envoy",
+			"rarity": "special",
+			"mana_cost": "{C}{2/R}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/262.png"
+			}
+		},
+		{
+			"name": "Nullwild Envoy",
+			"rarity": "special",
+			"mana_cost": "{C}{2/G}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/263.png"
+			}
+		},
+		{
+			"name": "Nullfield Scion",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Scion",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/264.png"
+			}
+		},
+		{
+			"name": "Nullmist Scion",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Scion",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/265.png"
+			}
+		},
+		{
+			"name": "Nullvein Scion",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Scion",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/266.png"
+			}
+		},
+		{
+			"name": "Nullfire Scion",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Scion",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/267.png"
+			}
+		},
+		{
+			"name": "Nullwild Scion",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Scion",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/268.png"
+			}
+		},
+		{
+			"name": "Fill the Void",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{2/W}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/269.png"
+			}
+		},
+		{
+			"name": "Exhaust Possibilites",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{2/U}",
+			"type": "Flash Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/270.png"
+			}
+		},
+		{
+			"name": "Gather Feedback",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{2/B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/271.png"
+			}
+		},
+		{
+			"name": "Sweepstakes",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{2/R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/272.png"
+			}
+		},
+		{
+			"name": "Endomitosis",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{2/G}",
+			"type": "Flash Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/273.png"
+			}
+		},
+		{
+			"name": "Disruptive Lawstaff",
+			"rarity": "special",
+			"mana_cost": "{C}{2/W}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/274.png"
+			}
+		},
+		{
+			"name": "Howllode Mine",
+			"rarity": "special",
+			"mana_cost": "{C}{2/U}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/275.png"
+			}
+		},
+		{
+			"name": "Empty Coffin",
+			"rarity": "special",
+			"mana_cost": "{C}{2/B}",
+			"type": "Artifact",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/276.png"
+			}
+		},
+		{
+			"name": "Sparkspewer",
+			"rarity": "special",
+			"mana_cost": "{C}{2/R}",
+			"type": "Artifact",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/277.png"
+			}
+		},
+		{
+			"name": "Incubation Pod",
+			"rarity": "special",
+			"mana_cost": "{C}{2/G}",
+			"type": "Artifact",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/278.png"
+			}
+		},
+		{
+			"name": "Elder Righteousness",
+			"rarity": "special",
+			"mana_cost": "{4}{C}",
+			"type": "Flash Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/279.png"
+			}
+		},
+		{
+			"name": "Elder's Agression",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/280.png"
+			}
+		},
+		{
+			"name": "Null Slash",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/281.png"
+			}
+		},
+		{
+			"name": "Recover the Lost",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/282.png"
+			}
+		},
+		{
+			"name": "Ponder the Infinite",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/283.png"
+			}
+		},
+		{
+			"name": "Dream of Tomorrow",
+			"rarity": "special",
+			"mana_cost": "{5}{C}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/284.png"
+			}
+		},
+		{
+			"name": "Moment of Erasure",
+			"rarity": "special",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Slow Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/285.png"
+			}
+		},
+		{
+			"name": "Eldritch Command",
+			"rarity": "special",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Flash Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/286.png"
+			}
+		},
+		{
+			"name": "Beacon of Disappearance",
+			"rarity": "special",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Flash Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/287.png"
+			}
+		},
+		{
+			"name": "Æther Reversal",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Flash Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/288.png"
+			}
+		},
+		{
+			"name": "Cry of the Eldrazi",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/289.png"
+			}
+		},
+		{
+			"name": "Learn about Horrors",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/290.png"
+			}
+		},
+		{
+			"name": "Dumpster Dive",
+			"rarity": "special",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/291.png"
+			}
+		},
+		{
+			"name": "Trip through Time",
+			"rarity": "special",
+			"mana_cost": "{3}{C}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/292.png"
+			}
+		},
+		{
+			"name": "Sudden Growth",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{C}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/293.png"
+			}
+		},
+		{
+			"name": "Moving Service",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/294.png"
+			}
+		},
+		{
+			"name": "Arcane Dissertation",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Artifact — Clue",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/295.png"
+			}
+		},
+		{
+			"name": "Flowstone Augment",
+			"rarity": "special",
+			"mana_cost": "{X}{C}",
+			"type": "Simple Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/296.png"
+			}
+		},
+		{
+			"name": "Seer of Doom",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/297.png"
+			}
+		},
+		{
+			"name": "Agent of Blight",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Enchantment Creature — Human Rogue",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/298.png"
+			}
+		},
+		{
+			"name": "Tar Monster",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/299.png"
+			}
+		},
+		{
+			"name": "It That Visits",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/300.png"
+			}
+		},
+		{
+			"name": "Bane of the Meek",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/301.png"
+			}
+		},
+		{
+			"name": "Eldrazi Spirit Guide",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Eldrazi Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/302.png"
+			}
+		},
+		{
+			"name": "Gateway Fiend",
+			"rarity": "special",
+			"mana_cost": "{1}{C}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/303.png"
+			}
+		},
+		{
+			"name": "Mudbeast",
+			"rarity": "special",
+			"mana_cost": "{2}{C}",
+			"type": "Artifact Creature — Construct Beast",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/304.png"
+			}
+		},
+		{
+			"name": "Aether Leech",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Leech",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/305.png"
+			}
+		},
+		{
+			"name": "Swarm of One",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/306.png"
+			}
+		},
+		{
+			"name": "Mudman Burrower",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/307.png"
+			}
+		},
+		{
+			"name": "Barren Primer",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Eldrazi Druid",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/308.png"
+			}
+		},
+		{
+			"name": "Neverblossom Dryad",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Dryad",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/309.png"
+			}
+		},
+		{
+			"name": "Puldge",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/310.png"
+			}
+		},
+		{
+			"name": "Rustrazor Lunkey",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Creature — Goblin Peasant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/311.png"
+			}
+		},
+		{
+			"name": "Ghost Exchange",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "473",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/312.png"
+			}
+		},
+		{
+			"name": "Eternal Respite",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/313.png"
+			}
+		},
+		{
+			"name": "The Foundry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/314.png"
+			}
+		},
+		{
+			"name": "Spreading Desolation",
+			"rarity": "special",
+			"mana_cost": "{C}{C}",
+			"type": "Simple Enchantment — Aura Mask",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/315.png"
+			}
+		},
+		{
+			"name": "Blasted Landscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/316.png"
+			}
+		},
+		{
+			"name": "Mana Confluence",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "487",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/317.png"
+			}
+		},
+		{
+			"name": "Geier Reach Sanitarium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "472",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/318.png"
+			}
+		},
+		{
+			"name": "Untapped Land",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "532",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/319.png"
+			}
+		},
+		{
+			"name": "Quicksand",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "524",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/320.png"
+			}
+		},
+		{
+			"name": "Fieldmist Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Island",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/321.png"
+			}
+		},
+		{
+			"name": "Mistvein Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Swamp",
+			"collector_number": "512",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/322.png"
+			}
+		},
+		{
+			"name": "Veinfire Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Mountain",
+			"collector_number": "539",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/323.png"
+			}
+		},
+		{
+			"name": "Firewild Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Forest",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/324.png"
+			}
+		},
+		{
+			"name": "Wildfield Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Plains",
+			"collector_number": "573",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/325.png"
+			}
+		},
+		{
+			"name": "Fieldvein Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Swamp",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/326.png"
+			}
+		},
+		{
+			"name": "Mistfire Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Mountain",
+			"collector_number": "495",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/327.png"
+			}
+		},
+		{
+			"name": "Veinwild Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Forest",
+			"collector_number": "556",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/328.png"
+			}
+		},
+		{
+			"name": "Firefield Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Plains",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/329.png"
+			}
+		},
+		{
+			"name": "Wildmist Moon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Island",
+			"collector_number": "590",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/330.png"
+			}
+		},
+		{
+			"name": "Fieldmist Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Island",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/331.png"
+			}
+		},
+		{
+			"name": "Mistvein Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Swamp",
+			"collector_number": "520",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/332.png"
+			}
+		},
+		{
+			"name": "Veinfire Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Mountain",
+			"collector_number": "547",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/333.png"
+			}
+		},
+		{
+			"name": "Firewild Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Forest",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/334.png"
+			}
+		},
+		{
+			"name": "Wildfield Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Plains",
+			"collector_number": "581",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/335.png"
+			}
+		},
+		{
+			"name": "Fieldvein Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Swamp",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/336.png"
+			}
+		},
+		{
+			"name": "Mistfire Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Mountain",
+			"collector_number": "503",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/337.png"
+			}
+		},
+		{
+			"name": "Veinwild Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Forest",
+			"collector_number": "564",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/338.png"
+			}
+		},
+		{
+			"name": "Firefield Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Plains",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/339.png"
+			}
+		},
+		{
+			"name": "Wildmist Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Island",
+			"collector_number": "598",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/340.png"
+			}
+		},
+		{
+			"name": "Fieldmist Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Island",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/341.png"
+			}
+		},
+		{
+			"name": "Mistvein Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Swamp",
+			"collector_number": "518",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/342.png"
+			}
+		},
+		{
+			"name": "Veinfire Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Mountain",
+			"collector_number": "545",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/343.png"
+			}
+		},
+		{
+			"name": "Firewild Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Forest",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/344.png"
+			}
+		},
+		{
+			"name": "Wildfield Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Plains",
+			"collector_number": "579",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/345.png"
+			}
+		},
+		{
+			"name": "Fieldvein Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Swamp",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/346.png"
+			}
+		},
+		{
+			"name": "Mistfire Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Mountain",
+			"collector_number": "501",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/347.png"
+			}
+		},
+		{
+			"name": "Veinwild Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Forest",
+			"collector_number": "562",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/348.png"
+			}
+		},
+		{
+			"name": "Firefield Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Plains",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/349.png"
+			}
+		},
+		{
+			"name": "Wildmist Tripod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Island",
+			"collector_number": "596",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/350.png"
+			}
+		},
+		{
+			"name": "Fieldmist Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Island",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/351.png"
+			}
+		},
+		{
+			"name": "Mistvein Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Swamp",
+			"collector_number": "513",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/352.png"
+			}
+		},
+		{
+			"name": "Veinfire Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Mountain",
+			"collector_number": "540",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/353.png"
+			}
+		},
+		{
+			"name": "Firewild Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Forest",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/354.png"
+			}
+		},
+		{
+			"name": "Wildfield Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Plains",
+			"collector_number": "574",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/355.png"
+			}
+		},
+		{
+			"name": "Fieldvein Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Swamp",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/356.png"
+			}
+		},
+		{
+			"name": "Mistfire Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Mountain",
+			"collector_number": "496",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/357.png"
+			}
+		},
+		{
+			"name": "Veinwild Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Forest",
+			"collector_number": "557",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/358.png"
+			}
+		},
+		{
+			"name": "Firefield Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Plains",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/359.png"
+			}
+		},
+		{
+			"name": "Wildmist Nova",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Island",
+			"collector_number": "591",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/360.png"
+			}
+		},
+		{
+			"name": "Fieldmist Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Plains Island Mine",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/361.png"
+			}
+		},
+		{
+			"name": "Mistvein Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Island Swamp Mine",
+			"collector_number": "511",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/362.png"
+			}
+		},
+		{
+			"name": "Veinfire Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Swamp Mountain Mine",
+			"collector_number": "538",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/363.png"
+			}
+		},
+		{
+			"name": "Firewild Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Mountain Forest Mine",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/364.png"
+			}
+		},
+		{
+			"name": "Wildfield Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Forest Plains Mine",
+			"collector_number": "572",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/365.png"
+			}
+		},
+		{
+			"name": "Fieldvein Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Plains Swamp Mine",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/366.png"
+			}
+		},
+		{
+			"name": "Mistfire Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Island Mountain Mine",
+			"collector_number": "494",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/367.png"
+			}
+		},
+		{
+			"name": "Veinwild Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Swamp Forest Mine",
+			"collector_number": "555",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/368.png"
+			}
+		},
+		{
+			"name": "Firefield Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Mountain Plains Mine",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/369.png"
+			}
+		},
+		{
+			"name": "Wildmist Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Forest Island Mine",
+			"collector_number": "589",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/370.png"
+			}
+		},
+		{
+			"name": "Fieldmist Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Island Tower",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/371.png"
+			}
+		},
+		{
+			"name": "Mistvein Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Swamp Tower",
+			"collector_number": "517",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/372.png"
+			}
+		},
+		{
+			"name": "Veinfire Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Mountain Tower",
+			"collector_number": "544",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/373.png"
+			}
+		},
+		{
+			"name": "Firewild Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Forest Tower",
+			"collector_number": "466",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/374.png"
+			}
+		},
+		{
+			"name": "Wildfield Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Plains Tower",
+			"collector_number": "578",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/375.png"
+			}
+		},
+		{
+			"name": "Fieldvein Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Swamp Tower",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/376.png"
+			}
+		},
+		{
+			"name": "Mistfire Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Mountain Tower",
+			"collector_number": "500",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/377.png"
+			}
+		},
+		{
+			"name": "Veinwild Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Forest Tower",
+			"collector_number": "561",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/378.png"
+			}
+		},
+		{
+			"name": "Firefield Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Plains Tower",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/379.png"
+			}
+		},
+		{
+			"name": "Wildmist Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Island Tower",
+			"collector_number": "595",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/380.png"
+			}
+		},
+		{
+			"name": "Fieldmist Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/381.png"
+			}
+		},
+		{
+			"name": "Mistvein Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "515",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/382.png"
+			}
+		},
+		{
+			"name": "Veinfire Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "542",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/383.png"
+			}
+		},
+		{
+			"name": "Firewild Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/384.png"
+			}
+		},
+		{
+			"name": "Wildfield Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "576",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/385.png"
+			}
+		},
+		{
+			"name": "Fieldvein Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/386.png"
+			}
+		},
+		{
+			"name": "Mistfire Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "498",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/387.png"
+			}
+		},
+		{
+			"name": "Veinwild Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "559",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/388.png"
+			}
+		},
+		{
+			"name": "Firefield Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/389.png"
+			}
+		},
+		{
+			"name": "Wildmist Power-Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes Power-Plant",
+			"collector_number": "593",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/390.png"
+			}
+		},
+		{
+			"name": "Fieldmist Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/391.png"
+			}
+		},
+		{
+			"name": "Mistvein Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "508",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/392.png"
+			}
+		},
+		{
+			"name": "Veinfire Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "535",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/393.png"
+			}
+		},
+		{
+			"name": "Firewild Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/394.png"
+			}
+		},
+		{
+			"name": "Wildfield Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "569",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/395.png"
+			}
+		},
+		{
+			"name": "Fieldvein Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/396.png"
+			}
+		},
+		{
+			"name": "Mistfire Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "491",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/397.png"
+			}
+		},
+		{
+			"name": "Veinwild Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "552",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/398.png"
+			}
+		},
+		{
+			"name": "Firefield Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/399.png"
+			}
+		},
+		{
+			"name": "Wildmist Getaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "586",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/400.png"
+			}
+		},
+		{
+			"name": "Fieldmist Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/401.png"
+			}
+		},
+		{
+			"name": "Mistvein Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "522",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/402.png"
+			}
+		},
+		{
+			"name": "Veinfire Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "549",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/403.png"
+			}
+		},
+		{
+			"name": "Firewild Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "471",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/404.png"
+			}
+		},
+		{
+			"name": "Wildfield Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "583",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/405.png"
+			}
+		},
+		{
+			"name": "Fieldvein Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/406.png"
+			}
+		},
+		{
+			"name": "Mistfire Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "505",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/407.png"
+			}
+		},
+		{
+			"name": "Veinwild Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "566",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/408.png"
+			}
+		},
+		{
+			"name": "Firefield Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/409.png"
+			}
+		},
+		{
+			"name": "Wildmist Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "600",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/410.png"
+			}
+		},
+		{
+			"name": "Fieldmist Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/411.png"
+			}
+		},
+		{
+			"name": "Mistvein Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "521",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/412.png"
+			}
+		},
+		{
+			"name": "Veinfire Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "548",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/413.png"
+			}
+		},
+		{
+			"name": "Firewild Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "470",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/414.png"
+			}
+		},
+		{
+			"name": "Wildfield Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "582",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/415.png"
+			}
+		},
+		{
+			"name": "Fieldvein Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/416.png"
+			}
+		},
+		{
+			"name": "Mistfire Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "504",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/417.png"
+			}
+		},
+		{
+			"name": "Veinwild Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "565",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/418.png"
+			}
+		},
+		{
+			"name": "Firefield Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/419.png"
+			}
+		},
+		{
+			"name": "Wildmist Wasteland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "599",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/420.png"
+			}
+		},
+		{
+			"name": "Fieldmist Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/421.png"
+			}
+		},
+		{
+			"name": "Mistvein Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "507",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/422.png"
+			}
+		},
+		{
+			"name": "Veinfire Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "534",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/423.png"
+			}
+		},
+		{
+			"name": "Firewild Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/424.png"
+			}
+		},
+		{
+			"name": "Wildfield Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "568",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/425.png"
+			}
+		},
+		{
+			"name": "Fieldvein Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/426.png"
+			}
+		},
+		{
+			"name": "Mistfire Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "490",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/427.png"
+			}
+		},
+		{
+			"name": "Veinwild Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "551",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/428.png"
+			}
+		},
+		{
+			"name": "Firefield Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/429.png"
+			}
+		},
+		{
+			"name": "Wildmist Farm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "585",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/430.png"
+			}
+		},
+		{
+			"name": "Fieldmist Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Island",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/431.png"
+			}
+		},
+		{
+			"name": "Mistvein Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Swamp",
+			"collector_number": "509",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/432.png"
+			}
+		},
+		{
+			"name": "Veinfire Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Mountain",
+			"collector_number": "536",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/433.png"
+			}
+		},
+		{
+			"name": "Firewild Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Forest",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/434.png"
+			}
+		},
+		{
+			"name": "Wildfield Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Plains",
+			"collector_number": "570",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/435.png"
+			}
+		},
+		{
+			"name": "Fieldvein Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains Swamp",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/436.png"
+			}
+		},
+		{
+			"name": "Mistfire Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island Mountain",
+			"collector_number": "492",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/437.png"
+			}
+		},
+		{
+			"name": "Veinwild Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp Forest",
+			"collector_number": "553",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/438.png"
+			}
+		},
+		{
+			"name": "Firefield Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain Plains",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/439.png"
+			}
+		},
+		{
+			"name": "Wildmist Hovel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest Island",
+			"collector_number": "587",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/440.png"
+			}
+		},
+		{
+			"name": "Bant Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/441.png"
+			}
+		},
+		{
+			"name": "Esper Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/442.png"
+			}
+		},
+		{
+			"name": "Grixis Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/443.png"
+			}
+		},
+		{
+			"name": "Jund Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "486",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/444.png"
+			}
+		},
+		{
+			"name": "Naya Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "523",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/445.png"
+			}
+		},
+		{
+			"name": "Abzan Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/446.png"
+			}
+		},
+		{
+			"name": "Jeskai Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "485",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/447.png"
+			}
+		},
+		{
+			"name": "Sultai Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "530",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/448.png"
+			}
+		},
+		{
+			"name": "Mardu Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "488",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/449.png"
+			}
+		},
+		{
+			"name": "Temur Trifilter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "531",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/450.png"
+			}
+		},
+		{
+			"name": "Inverted Tundra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "482",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/451.png"
+			}
+		},
+		{
+			"name": "Inverted Underground Sea",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "483",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/452.png"
+			}
+		},
+		{
+			"name": "Inverted Badlands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "475",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/453.png"
+			}
+		},
+		{
+			"name": "Inverted Taiga",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "480",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/454.png"
+			}
+		},
+		{
+			"name": "Inverted Savannah",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "478",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/455.png"
+			}
+		},
+		{
+			"name": "Inverted Scrubland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "479",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/456.png"
+			}
+		},
+		{
+			"name": "Inverted Volcanic Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "484",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/457.png"
+			}
+		},
+		{
+			"name": "Inverted Bayou",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "476",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/458.png"
+			}
+		},
+		{
+			"name": "Inverted Plateau",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "477",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/459.png"
+			}
+		},
+		{
+			"name": "Inverted Tropical Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Wastes",
+			"collector_number": "481",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/460.png"
+			}
+		},
+		{
+			"name": "Fieldmist Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Island",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/461.png"
+			}
+		},
+		{
+			"name": "Mistvein Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Swamp",
+			"collector_number": "514",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/462.png"
+			}
+		},
+		{
+			"name": "Veinfire Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Mountain",
+			"collector_number": "541",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/463.png"
+			}
+		},
+		{
+			"name": "Firewild Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Forest",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/464.png"
+			}
+		},
+		{
+			"name": "Wildfield Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Plains",
+			"collector_number": "575",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/465.png"
+			}
+		},
+		{
+			"name": "Fieldvein Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Swamp",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/466.png"
+			}
+		},
+		{
+			"name": "Mistfire Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Mountain",
+			"collector_number": "497",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/467.png"
+			}
+		},
+		{
+			"name": "Veinwild Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Forest",
+			"collector_number": "558",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/468.png"
+			}
+		},
+		{
+			"name": "Firefield Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Plains",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/469.png"
+			}
+		},
+		{
+			"name": "Wildmist Observatory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Island",
+			"collector_number": "592",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/470.png"
+			}
+		},
+		{
+			"name": "Spawn Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Plains",
+			"collector_number": "528",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/471.png"
+			}
+		},
+		{
+			"name": "Spawn Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Island",
+			"collector_number": "526",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/472.png"
+			}
+		},
+		{
+			"name": "Spawn Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Swamp",
+			"collector_number": "529",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/473.png"
+			}
+		},
+		{
+			"name": "Spawn Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Mountain",
+			"collector_number": "527",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/474.png"
+			}
+		},
+		{
+			"name": "Spawn Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes Forest",
+			"collector_number": "525",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/475.png"
+			}
+		},
+		{
+			"name": "Fieldmist Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/476.png"
+			}
+		},
+		{
+			"name": "Mistvein Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "519",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/477.png"
+			}
+		},
+		{
+			"name": "Veinfire Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "546",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/478.png"
+			}
+		},
+		{
+			"name": "Firewild Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "468",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/479.png"
+			}
+		},
+		{
+			"name": "Wildfield Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "580",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/480.png"
+			}
+		},
+		{
+			"name": "Fieldvein Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/481.png"
+			}
+		},
+		{
+			"name": "Mistfire Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "502",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/482.png"
+			}
+		},
+		{
+			"name": "Veinwild Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "563",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/483.png"
+			}
+		},
+		{
+			"name": "Firefield Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/484.png"
+			}
+		},
+		{
+			"name": "Wildmist Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "597",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/485.png"
+			}
+		},
+		{
+			"name": "Fieldmist Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/486.png"
+			}
+		},
+		{
+			"name": "Mistvein Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "506",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/487.png"
+			}
+		},
+		{
+			"name": "Veinfire Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "533",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/488.png"
+			}
+		},
+		{
+			"name": "Firewild Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/489.png"
+			}
+		},
+		{
+			"name": "Wildfield Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "567",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/490.png"
+			}
+		},
+		{
+			"name": "Fieldvein Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/491.png"
+			}
+		},
+		{
+			"name": "Mistfire Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "489",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/492.png"
+			}
+		},
+		{
+			"name": "Veinwild Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "550",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/493.png"
+			}
+		},
+		{
+			"name": "Firefield Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/494.png"
+			}
+		},
+		{
+			"name": "Wildmist Crossing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Wastes",
+			"collector_number": "584",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/495.png"
+			}
+		},
+		{
+			"name": "Fieldmist Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Island",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/496.png"
+			}
+		},
+		{
+			"name": "Mistvein Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Swamp",
+			"collector_number": "516",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/497.png"
+			}
+		},
+		{
+			"name": "Veinfire Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Mountain",
+			"collector_number": "543",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/498.png"
+			}
+		},
+		{
+			"name": "Firewild Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Forest",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/499.png"
+			}
+		},
+		{
+			"name": "Wildfield Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Plains",
+			"collector_number": "577",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/500.png"
+			}
+		},
+		{
+			"name": "Fieldvein Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Swamp",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/501.png"
+			}
+		},
+		{
+			"name": "Mistfire Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Mountain",
+			"collector_number": "499",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/502.png"
+			}
+		},
+		{
+			"name": "Veinwild Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Forest",
+			"collector_number": "560",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/503.png"
+			}
+		},
+		{
+			"name": "Firefield Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Plains",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/504.png"
+			}
+		},
+		{
+			"name": "Wildmist Quarry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Island",
+			"collector_number": "594",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/505.png"
+			}
+		},
+		{
+			"name": "Fieldmist Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Island",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/506.png"
+			}
+		},
+		{
+			"name": "Mistvein Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Swamp",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/507.png"
+			}
+		},
+		{
+			"name": "Veinfire Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Mountain",
+			"collector_number": "537",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/508.png"
+			}
+		},
+		{
+			"name": "Firewild Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Forest",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/509.png"
+			}
+		},
+		{
+			"name": "Wildfield Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Plains",
+			"collector_number": "571",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/510.png"
+			}
+		},
+		{
+			"name": "Fieldvein Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Plains Swamp",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/511.png"
+			}
+		},
+		{
+			"name": "Mistfire Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Island Mountain",
+			"collector_number": "493",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/512.png"
+			}
+		},
+		{
+			"name": "Veinwild Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Swamp Forest",
+			"collector_number": "554",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/513.png"
+			}
+		},
+		{
+			"name": "Firefield Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Mountain Plains",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/514.png"
+			}
+		},
+		{
+			"name": "Wildmist Landfill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Slow Land — Forest Island",
+			"collector_number": "588",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/515.png"
+			}
+		},
+		{
+			"name": "City of Friends",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp Forest Mountain",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/516.png"
+			}
+		},
+		{
+			"name": "Teyo, the Shieldmage",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Planeswalker — Teyo",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/517.png"
+			}
+		},
+		{
+			"name": "Narset, Parter of Veils",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Narset",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/518.png"
+			}
+		},
+		{
+			"name": "Davriel, Rogue Shadowmage",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Planeswalker — Davriel",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/519.png"
+			}
+		},
+		{
+			"name": "Tibalt, Rakish Instigator",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Tibalt",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/520.png"
+			}
+		},
+		{
+			"name": "Dead",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/521.png"
+			}
+		},
+		{
+			"name": "Rough",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/522.png"
+			}
+		},
+		{
+			"name": "Boom",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/523.png"
+			}
+		},
+		{
+			"name": "Vivien, Champion of the Wilds",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Vivien",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/524.png"
+			}
+		},
+		{
+			"name": "Dovin, Hand of Control",
+			"rarity": "special",
+			"mana_cost": "{2}{W/U}",
+			"type": "Legendary Planeswalker — Dovin",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/525.png"
+			}
+		},
+		{
+			"name": "Protect",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/526.png"
+			}
+		},
+		{
+			"name": "Stand",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/527.png"
+			}
+		},
+		{
+			"name": "Depose",
+			"rarity": "special",
+			"mana_cost": "{1}{W/U}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/528.png"
+			}
+		},
+		{
+			"name": "Warrant",
+			"rarity": "special",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Flash Sorcery",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/529.png"
+			}
+		},
+		{
+			"name": "Ashiok, Dream Render",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Legendary Planeswalker — Ashiok",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/530.png"
+			}
+		},
+		{
+			"name": "Far",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/531.png"
+			}
+		},
+		{
+			"name": "Spite",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/532.png"
+			}
+		},
+		{
+			"name": "Connive",
+			"rarity": "special",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/533.png"
+			}
+		},
+		{
+			"name": "Discovery",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}",
+			"type": "Simple Sorcery",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/534.png"
+			}
+		},
+		{
+			"name": "Ashling, Ignited",
+			"rarity": "special",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Legendary Planeswalker — Ashling",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/535.png"
+			}
+		},
+		{
+			"name": "Toil",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/536.png"
+			}
+		},
+		{
+			"name": "Carnival",
+			"rarity": "special",
+			"mana_cost": "{B/R}",
+			"type": "Flash Sorcery",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/537.png"
+			}
+		},
+		{
+			"name": "Bedeck",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Flash Sorcery",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/538.png"
+			}
+		},
+		{
+			"name": "Pain",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/539.png"
+			}
+		},
+		{
+			"name": "Radha, Thunder Lord",
+			"rarity": "special",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Legendary Planeswalker — Radha",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/540.png"
+			}
+		},
+		{
+			"name": "Armed",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/541.png"
+			}
+		},
+		{
+			"name": "Thrash",
+			"rarity": "special",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Flash Sorcery",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/542.png"
+			}
+		},
+		{
+			"name": "Collision",
+			"rarity": "special",
+			"mana_cost": "{1}{R/G}",
+			"type": "Flash Sorcery",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/543.png"
+			}
+		},
+		{
+			"name": "Assault",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/544.png"
+			}
+		},
+		{
+			"name": "Huatli, the Sun's Heart",
+			"rarity": "special",
+			"mana_cost": "{2}{G/W}",
+			"type": "Legendary Planeswalker — Huatli",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/545.png"
+			}
+		},
+		{
+			"name": "Alive",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/546.png"
+			}
+		},
+		{
+			"name": "Assure",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Flash Sorcery",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/547.png"
+			}
+		},
+		{
+			"name": "Flower",
+			"rarity": "special",
+			"mana_cost": "{G/W}",
+			"type": "Sorcery",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/548.png"
+			}
+		},
+		{
+			"name": "Sorin Ascendant",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Legendary Planeswalker — Sorin",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/549.png"
+			}
+		},
+		{
+			"name": "Profit",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/550.png"
+			}
+		},
+		{
+			"name": "Night",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Flash Sorcery",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/551.png"
+			}
+		},
+		{
+			"name": "Consecrate",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/552.png"
+			}
+		},
+		{
+			"name": "Revival",
+			"rarity": "special",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/553.png"
+			}
+		},
+		{
+			"name": "Saheeli, Sublime Artificer",
+			"rarity": "special",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Planeswalker — Saheeli",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/554.png"
+			}
+		},
+		{
+			"name": "Turn",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/555.png"
+			}
+		},
+		{
+			"name": "Fire",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/556.png"
+			}
+		},
+		{
+			"name": "Invert",
+			"rarity": "special",
+			"mana_cost": "{U/R}",
+			"type": "Flash Sorcery",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/557.png"
+			}
+		},
+		{
+			"name": "Expansion",
+			"rarity": "special",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Flash Sorcery",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/558.png"
+			}
+		},
+		{
+			"name": "Garruk, Swarm's Husband",
+			"rarity": "special",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Legendary Planeswalker — Garruk",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/559.png"
+			}
+		},
+		{
+			"name": "Down",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/560.png"
+			}
+		},
+		{
+			"name": "Find",
+			"rarity": "special",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/561.png"
+			}
+		},
+		{
+			"name": "Status",
+			"rarity": "special",
+			"mana_cost": "{B/G}",
+			"type": "Flash Sorcery",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/562.png"
+			}
+		},
+		{
+			"name": "Tiana, Feathered Fixer",
+			"rarity": "special",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Legendary Planeswalker — Tiana",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/563.png"
+			}
+		},
+		{
+			"name": "Order",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/564.png"
+			}
+		},
+		{
+			"name": "Integrity",
+			"rarity": "special",
+			"mana_cost": "{R/W}",
+			"type": "Flash Sorcery",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/565.png"
+			}
+		},
+		{
+			"name": "Response",
+			"rarity": "special",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Flash Sorcery",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/566.png"
+			}
+		},
+		{
+			"name": "Wear",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/567.png"
+			}
+		},
+		{
+			"name": "Kiora, Behemoth Beckoner",
+			"rarity": "special",
+			"mana_cost": "{2}{G/U}",
+			"type": "Legendary Planeswalker — Kiora",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/568.png"
+			}
+		},
+		{
+			"name": "Give",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/569.png"
+			}
+		},
+		{
+			"name": "Incubation",
+			"rarity": "special",
+			"mana_cost": "{G/U}",
+			"type": "Sorcery",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/570.png"
+			}
+		},
+		{
+			"name": "Repudiate",
+			"rarity": "special",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Flash Sorcery",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/571.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Flash Simple Sorcery",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/572.png"
+			}
+		},
+		{
+			"name": "Beck",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/573.png"
+			}
+		},
+		{
+			"name": "Supply",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/574.png"
+			}
+		},
+		{
+			"name": "Trial",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/575.png"
+			}
+		},
+		{
+			"name": "Rise",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/576.png"
+			}
+		},
+		{
+			"name": "Breaking",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/577.png"
+			}
+		},
+		{
+			"name": "Hit",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/578.png"
+			}
+		},
+		{
+			"name": "Flesh",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/579.png"
+			}
+		},
+		{
+			"name": "Pure",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/580.png"
+			}
+		},
+		{
+			"name": "Research",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Flash Sorcery",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/581.png"
+			}
+		},
+		{
+			"name": "Live",
+			"rarity": "special",
+			"mana_cost": "{X}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/582.png"
+			}
+		},
+		{
+			"name": "Odds",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Flash Sorcery",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/583.png"
+			}
+		},
+		{
+			"name": "Catch",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/584.png"
+			}
+		},
+		{
+			"name": "Above",
+			"rarity": "special",
+			"mana_cost": "{1}{W/U}",
+			"type": "Flash Sorcery",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/585.png"
+			}
+		},
+		{
+			"name": "Crime",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/586.png"
+			}
+		},
+		{
+			"name": "Ready",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/587.png"
+			}
+		},
+		{
+			"name": "Pride",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}",
+			"type": "Flash Sorcery",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/588.png"
+			}
+		},
+		{
+			"name": "Bound",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Flash Sorcery",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/589.png"
+			}
+		},
+		{
+			"name": "Lost",
+			"rarity": "special",
+			"mana_cost": "{U/B}",
+			"type": "Flash Sorcery",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/590.png"
+			}
+		},
+		{
+			"name": "Hide",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Flash Sorcery",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/591.png"
+			}
+		},
+		{
+			"name": "Twist",
+			"rarity": "special",
+			"mana_cost": "{3}{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/592.png"
+			}
+		},
+		{
+			"name": "Nullfield Howl",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/593.png"
+			}
+		},
+		{
+			"name": "Nullmist Howl",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/594.png"
+			}
+		},
+		{
+			"name": "Nullvein Howl",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/595.png"
+			}
+		},
+		{
+			"name": "Nullfire Howl",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/596.png"
+			}
+		},
+		{
+			"name": "Nullwild Howl",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Simple Sorcery",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/597.png"
+			}
+		},
+		{
+			"name": "Eulod of the Howling Mine",
+			"rarity": "special",
+			"mana_cost": "{C}{C}",
+			"type": "Legendary Planeswalker — Eulod",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/598.png"
+			}
+		},
+		{
+			"name": "The Mystery of the Liberty Bell",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Enchantment — Saga",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub-main/sets/Redd-files/img/599.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Safehold Sentry
+	1 Whitemane Lion
+	1 Mistmeadow Skulk
+	1 Squall Drifter
+	1 Extraction Specialist
+	1 Bant Battlemage
+	1 D'Avenant Healer
+	1 Priests of Norn
+	1 Doomed Traveler
+	1 Kami of False Hope
+	1 Encampment Keeper
+	1 Mosquito Guard
+	1 Crush Contraband
+	1 Arcbound Town
+	1 Spectral Procession
+	1 Cenn's Enlistment
+	1 Saltblast
+	1 Dusk
+	1 Cursebreaker's Judgment
+	1 Ephemeral Dust
+	1 Pentarch Ward
+	1 Triclopean Sight
+	1 Oblivion Ring
+	1 Thornwind Faeries
+	1 Esper Battlemage
+	1 Nimbus Naiad
+	1 Æther Adept
+	1 Leech Bonder
+	1 Disruptive Pitmage
+	1 Tolarian Emissary
+	1 Voidmage Apprentice
+	1 Wall of Deceit
+	1 Plaxmanta
+	1 Shore Keeper
+	1 Vortex Elemental
+	1 Commit
+	1 Blinding Spray
+	1 Dismal Failure
+	1 Hindering Touch
+	1 Ray of Command
+	1 Mass Manipulation
+	1 Swirling Torrent
+	1 Treasure Cruise
+	1 Unstable Mutation
+	1 Threads of Disloyalty
+	1 Slimebind
+	1 Nullpriest of Oblivion
+	1 Sewer Shambler
+	1 Grixis Battlemage
+	1 Fleshbag Marauder
+	1 Spiteful Returned
+	1 Baleful Eidolon
+	1 Thrull Parasite
+	1 Ruthless Ripper
+	1 Blight Keeper
+	1 Pilfering Imp
+	1 Alley Strangler
+	1 Sworn Nemesis
+	1 Cutthroat Maneuver
+	1 Snuff Out
+	1 Ritual of Soot
+	1 Gruesome Menagerie
+	1 Necropotence
+	1 Never
+	1 Incremental Blight
+	1 Unburial Rites
+	1 Dead Weight
+	1 Boon of Emrakul
+	1 Dance of the Dead
+	1 Vithian Sting-Shaman
+	1 Jund Battlemage
+	1 Stormcaller of Keranos
+	1 Twinscroll Shaman
+	1 Spearpoint Oread
+	1 Ghost-Lit Raider
+	1 Thunderscape Battlemage
+	1 Goblin Cratermaker
+	1 Jeering Instigator
+	1 Rustrazor Butcher
+	1 Nyxborn Rollicker
+	1 Fire Shrine Keeper
+	1 Lightning Blast
+	1 Flame Javelin
+	1 Slice and Dice
+	1 Insult
+	1 Flame Wave
+	1 Fire Whip
+	1 Seal of Fire
+	1 Mizzium Tank
+	1 Kujar Seedsculptor
+	1 Ixalli's Keeper
+	1 Spined Karok
+	1 Spore Frog
+	1 Citanul Woodreaders
+	1 Juvenile Gloomwidow
+	1 Rootwalla
+	1 Jade Mage
+	1 Naya Battlemage
+	1 Werebear
+	1 Thornscape Battlemage
+	1 Steeple Creeper
+	1 Sudden Reclamation
+	1 Reap and Sow
+	1 Hunt the Weak
+	1 Enlarge
+	1 Tower Above
+	1 Creeping Mold
+	1 Feral Incarnation
+	1 Mouth
+	1 Tiger Claws
+	1 Fecundity
+	1 Seal of Strength
+	1 Azorius Guildmage
+	1 New Prahv Guildmage
+	1 Senate Guildmage
+	1 Lawmage's Binding
+	1 Farm
+	1 Dimir Guildmage
+	1 House Guildmage
+	1 Duskmantle Guildmage
+	1 Rags
+	1 Consign
+	1 Rakdos Guildmage
+	1 Rix Maadi Guildmage
+	1 Cult Guildmage
+	1 Poison the Well
+	1 Cut
+	1 Gruul Guildmage
+	1 Skarrg Guildmage
+	1 Clan Guildmage
+	1 Fires of Yavimaya
+	1 Struggle
+	1 Selesnya Guildmage
+	1 Vitu-Ghazi Guildmage
+	1 Conclave Guildmage
+	1 Steward of Valeron
+	1 Captured Sunlight
+	1 Prepare
+	1 Orzhov Guildmage
+	1 Vizkopa Guildmage
+	1 Syndicate Guildmage
+	1 Grind
+	1 Start
+	1 Izzet Guildmage
+	1 Nivix Guildmage
+	1 League Guildmage
+	1 Refuse
+	1 Reduce
+	1 Golgari Guildmage
+	1 Korozda Guildmage
+	1 Swarm Guildmage
+	1 Rendclaw Trow
+	1 Driven
+	1 Destined
+	1 Boros Guildmage
+	1 Sunhome Guildmage
+	1 Legion Guildmage
+	1 Onward
+	1 Leave
+	1 Simic Guildmage
+	1 Zameck Guildmage
+	1 Combine Guildmage
+	1 Spring
+	1 Reason
+	1 Bant Sureblade
+	1 Rhox War Monk
+	1 Esper Stormblade
+	1 Esper Sojourners
+	1 Punish Ignorance
+	1 Grixis Grimblade
+	1 Kederekt Creeper
+	1 Jund Hackblade
+	1 Jund Sojourners
+	1 Naya Hushblade
+	1 Woolly Thoctar
+	1 Raze Realm
+	1 Temur Ascendancy
+	1 Planar Ebb
+	1 Jeskai Ascendancy
+	1 Abzan Ascendancy
+	1 Sultai Ascendancy
+	1 Punish Obstinance
+	1 Mardu Ascendancy
+	1 Witness the End
+	1 Who What When Where Why
+	1 Jackpot
+	1 Legacy Blast
+	1 Brainpick
+	1 Timewaster
+	1 Myr Sire
+	1 Phyrexian Digester
+	1 Sky Skiff
+	1 Sleek Schooner
+	1 Fireshrieker
+	1 Flayer Husk
+	1 Blight Sickle
+	1 Greatsword
+	1 Prying Blade
+	1 Mask of Memory
+	1 Elixir of Immortality
+	1 Phyrexian Vault
+	1 Carnage Altar
+	1 Whirlermaker
+	1 Precious Quarry
+	1 Hymn of the Wilds
+	1 Backup Plan
+	1 Sentinel Dispatch
+	1 Power Play
+	1 Advantageous Proclamation
+	1 Fieldmist Chamber
+	1 Mistvein Chamber
+	1 Veinfire Chamber
+	1 Firewild Chamber
+	1 Wildfield Chamber
+	1 Fieldvein Chamber
+	1 Mistfire Chamber
+	1 Veinwild Chamber
+	1 Firefield Chamber
+	1 Wildmist Chamber
+	1 Talisman of Progress
+	1 Talisman of Dominance
+	1 Talisman of Indulgence
+	1 Talisman of Impulse
+	1 Talisman of Unity
+	1 Talisman of Hierarchy
+	1 Talisman of Creativity
+	1 Talisman of Resilience
+	1 Talisman of Conviction
+	1 Talisman of Curiosity
+	1 Ash-Eye Prowler
+	1 Quickwing Prowler
+	1 Brimstone Prowler
+	1 Furystoke Prowler
+	1 Steward of the Void
+	1 Chaos Drinker
+	1 Arcane Witness
+	1 Sludgepoker
+	1 Nuclear Prowler
+	1 Overthinker
+	1 Fieldmist Ravager
+	1 Mistvein Ravager
+	1 Veinfire Ravager
+	1 Firewild Ravager
+	1 Wildfield Ravager
+	1 Fieldvein Ravager
+	1 Mistfire Ravager
+	1 Veinwild Ravager
+	1 Firefield Ravager
+	1 Wildmist Ravager
+	1 Nullfield Druid
+	1 Nullmist Druid
+	1 Nullvein Druid
+	1 Nullfire Druid
+	1 Nullwild Druid
+	1 Nullfield Entourage
+	1 Nullmist Entourage
+	1 Nullvein Entourage
+	1 Nullfire Entourage
+	1 Nullwild Entourage
+	1 Nullfield Envoy
+	1 Nullmist Envoy
+	1 Nullvein Envoy
+	1 Nullfire Envoy
+	1 Nullwild Envoy
+	1 Nullfield Scion
+	1 Nullmist Scion
+	1 Nullvein Scion
+	1 Nullfire Scion
+	1 Nullwild Scion
+	1 Fill the Void
+	1 Exhaust Possibilites
+	1 Gather Feedback
+	1 Sweepstakes
+	1 Endomitosis
+	1 Disruptive Lawstaff
+	1 Howllode Mine
+	1 Empty Coffin
+	1 Sparkspewer
+	1 Incubation Pod
+	1 Elder Righteousness
+	1 Elder's Agression
+	1 Null Slash
+	1 Recover the Lost
+	1 Ponder the Infinite
+	1 Dream of Tomorrow
+	1 Moment of Erasure
+	1 Eldritch Command
+	1 Beacon of Disappearance
+	1 Æther Reversal
+	1 Cry of the Eldrazi
+	1 Learn about Horrors
+	1 Dumpster Dive
+	1 Trip through Time
+	1 Sudden Growth
+	1 Moving Service
+	1 Arcane Dissertation
+	1 Flowstone Augment
+	1 Seer of Doom
+	1 Agent of Blight
+	1 Tar Monster
+	1 It That Visits
+	1 Bane of the Meek
+	1 Eldrazi Spirit Guide
+	1 Gateway Fiend
+	1 Mudbeast
+	1 Aether Leech
+	1 Swarm of One
+	1 Mudman Burrower
+	1 Barren Primer
+	1 Neverblossom Dryad
+	1 Puldge
+	1 Rustrazor Lunkey
+	1 Ghost Exchange
+	1 Eternal Respite
+	1 The Foundry
+	1 Spreading Desolation
+	1 Blasted Landscape
+	1 Mana Confluence
+	1 Geier Reach Sanitarium
+	1 Untapped Land
+	1 Quicksand
+	1 Fieldmist Moon
+	1 Mistvein Moon
+	1 Veinfire Moon
+	1 Firewild Moon
+	1 Wildfield Moon
+	1 Fieldvein Moon
+	1 Mistfire Moon
+	1 Veinwild Moon
+	1 Firefield Moon
+	1 Wildmist Moon
+	1 Fieldmist Void
+	1 Mistvein Void
+	1 Veinfire Void
+	1 Firewild Void
+	1 Wildfield Void
+	1 Fieldvein Void
+	1 Mistfire Void
+	1 Veinwild Void
+	1 Firefield Void
+	1 Wildmist Void
+	1 Fieldmist Tripod
+	1 Mistvein Tripod
+	1 Veinfire Tripod
+	1 Firewild Tripod
+	1 Wildfield Tripod
+	1 Fieldvein Tripod
+	1 Mistfire Tripod
+	1 Veinwild Tripod
+	1 Firefield Tripod
+	1 Wildmist Tripod
+	1 Fieldmist Nova
+	1 Mistvein Nova
+	1 Veinfire Nova
+	1 Firewild Nova
+	1 Wildfield Nova
+	1 Fieldvein Nova
+	1 Mistfire Nova
+	1 Veinwild Nova
+	1 Firefield Nova
+	1 Wildmist Nova
+	1 Fieldmist Mine
+	1 Mistvein Mine
+	1 Veinfire Mine
+	1 Firewild Mine
+	1 Wildfield Mine
+	1 Fieldvein Mine
+	1 Mistfire Mine
+	1 Veinwild Mine
+	1 Firefield Mine
+	1 Wildmist Mine
+	1 Fieldmist Tower
+	1 Mistvein Tower
+	1 Veinfire Tower
+	1 Firewild Tower
+	1 Wildfield Tower
+	1 Fieldvein Tower
+	1 Mistfire Tower
+	1 Veinwild Tower
+	1 Firefield Tower
+	1 Wildmist Tower
+	1 Fieldmist Power-Plant
+	1 Mistvein Power-Plant
+	1 Veinfire Power-Plant
+	1 Firewild Power-Plant
+	1 Wildfield Power-Plant
+	1 Fieldvein Power-Plant
+	1 Mistfire Power-Plant
+	1 Veinwild Power-Plant
+	1 Firefield Power-Plant
+	1 Wildmist Power-Plant
+	1 Fieldmist Getaway
+	1 Mistvein Getaway
+	1 Veinfire Getaway
+	1 Firewild Getaway
+	1 Wildfield Getaway
+	1 Fieldvein Getaway
+	1 Mistfire Getaway
+	1 Veinwild Getaway
+	1 Firefield Getaway
+	1 Wildmist Getaway
+	1 Fieldmist Wastes
+	1 Mistvein Wastes
+	1 Veinfire Wastes
+	1 Firewild Wastes
+	1 Wildfield Wastes
+	1 Fieldvein Wastes
+	1 Mistfire Wastes
+	1 Veinwild Wastes
+	1 Firefield Wastes
+	1 Wildmist Wastes
+	1 Fieldmist Wasteland
+	1 Mistvein Wasteland
+	1 Veinfire Wasteland
+	1 Firewild Wasteland
+	1 Wildfield Wasteland
+	1 Fieldvein Wasteland
+	1 Mistfire Wasteland
+	1 Veinwild Wasteland
+	1 Firefield Wasteland
+	1 Wildmist Wasteland
+	1 Fieldmist Farm
+	1 Mistvein Farm
+	1 Veinfire Farm
+	1 Firewild Farm
+	1 Wildfield Farm
+	1 Fieldvein Farm
+	1 Mistfire Farm
+	1 Veinwild Farm
+	1 Firefield Farm
+	1 Wildmist Farm
+	1 Fieldmist Hovel
+	1 Mistvein Hovel
+	1 Veinfire Hovel
+	1 Firewild Hovel
+	1 Wildfield Hovel
+	1 Fieldvein Hovel
+	1 Mistfire Hovel
+	1 Veinwild Hovel
+	1 Firefield Hovel
+	1 Wildmist Hovel
+	1 Bant Trifilter
+	1 Esper Trifilter
+	1 Grixis Trifilter
+	1 Jund Trifilter
+	1 Naya Trifilter
+	1 Abzan Trifilter
+	1 Jeskai Trifilter
+	1 Sultai Trifilter
+	1 Mardu Trifilter
+	1 Temur Trifilter
+	1 Inverted Tundra
+	1 Inverted Underground Sea
+	1 Inverted Badlands
+	1 Inverted Taiga
+	1 Inverted Savannah
+	1 Inverted Scrubland
+	1 Inverted Volcanic Island
+	1 Inverted Bayou
+	1 Inverted Plateau
+	1 Inverted Tropical Island
+	1 Fieldmist Observatory
+	1 Mistvein Observatory
+	1 Veinfire Observatory
+	1 Firewild Observatory
+	1 Wildfield Observatory
+	1 Fieldvein Observatory
+	1 Mistfire Observatory
+	1 Veinwild Observatory
+	1 Firefield Observatory
+	1 Wildmist Observatory
+	1 Spawn Plains
+	1 Spawn Island
+	1 Spawn Swamp
+	1 Spawn Mountain
+	1 Spawn Forest
+	1 Fieldmist Tunnel
+	1 Mistvein Tunnel
+	1 Veinfire Tunnel
+	1 Firewild Tunnel
+	1 Wildfield Tunnel
+	1 Fieldvein Tunnel
+	1 Mistfire Tunnel
+	1 Veinwild Tunnel
+	1 Firefield Tunnel
+	1 Wildmist Tunnel
+	1 Fieldmist Crossing
+	1 Mistvein Crossing
+	1 Veinfire Crossing
+	1 Firewild Crossing
+	1 Wildfield Crossing
+	1 Fieldvein Crossing
+	1 Mistfire Crossing
+	1 Veinwild Crossing
+	1 Firefield Crossing
+	1 Wildmist Crossing
+	1 Fieldmist Quarry
+	1 Mistvein Quarry
+	1 Veinfire Quarry
+	1 Firewild Quarry
+	1 Wildfield Quarry
+	1 Fieldvein Quarry
+	1 Mistfire Quarry
+	1 Veinwild Quarry
+	1 Firefield Quarry
+	1 Wildmist Quarry
+	1 Fieldmist Landfill
+	1 Mistvein Landfill
+	1 Veinfire Landfill
+	1 Firewild Landfill
+	1 Wildfield Landfill
+	1 Fieldvein Landfill
+	1 Mistfire Landfill
+	1 Veinwild Landfill
+	1 Firefield Landfill
+	1 Wildmist Landfill
+	1 City of Friends
+	1 Teyo, the Shieldmage
+	1 Narset, Parter of Veils
+	1 Davriel, Rogue Shadowmage
+	1 Tibalt, Rakish Instigator
+	1 Dead
+	1 Rough
+	1 Boom
+	1 Vivien, Champion of the Wilds
+	1 Dovin, Hand of Control
+	1 Protect
+	1 Stand
+	1 Depose
+	1 Warrant
+	1 Ashiok, Dream Render
+	1 Far
+	1 Spite
+	1 Connive
+	1 Discovery
+	1 Ashling, Ignited
+	1 Toil
+	1 Carnival
+	1 Bedeck
+	1 Pain
+	1 Radha, Thunder Lord
+	1 Armed
+	1 Thrash
+	1 Collision
+	1 Assault
+	1 Huatli, the Sun's Heart
+	1 Alive
+	1 Assure
+	1 Flower
+	1 Sorin Ascendant
+	1 Profit
+	1 Night
+	1 Consecrate
+	1 Revival
+	1 Saheeli, Sublime Artificer
+	1 Turn
+	1 Fire
+	1 Invert
+	1 Expansion
+	1 Garruk, Swarm's Husband
+	1 Down
+	1 Find
+	1 Status
+	1 Tiana, Feathered Fixer
+	1 Order
+	1 Integrity
+	1 Response
+	1 Wear
+	1 Kiora, Behemoth Beckoner
+	1 Give
+	1 Incubation
+	1 Repudiate
+	1 Illusion
+	1 Beck
+	1 Supply
+	1 Trial
+	1 Rise
+	1 Breaking
+	1 Hit
+	1 Flesh
+	1 Pure
+	1 Research
+	1 Live
+	1 Odds
+	1 Catch
+	1 Above
+	1 Crime
+	1 Ready
+	1 Pride
+	1 Bound
+	1 Lost
+	1 Hide
+	1 Twist
+	1 Nullfield Howl
+	1 Nullmist Howl
+	1 Nullvein Howl
+	1 Nullfire Howl
+	1 Nullwild Howl
+	1 Eulod of the Howling Mine
+	1 The Mystery of the Liberty Bell
