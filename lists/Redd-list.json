@@ -504,12 +504,12 @@
         "position": "141"
     },
     {
-        "card_name": "Nullfire Entourage",
-        "number": 154,
+        "card_name": "Nyxborn Rollicker",
+        "number": 156,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "257"
+        "position": "79"
     },
     {
         "card_name": "Kujar Seedsculptor",
@@ -544,12 +544,12 @@
         "position": "48"
     },
     {
-        "card_name": "Nullfire Envoy",
-        "number": 155,
-        "shape": "normal",
+        "card_name": "Onward",
+        "number": 157,
+        "shape": "aftermath",
         "set": "Redd",
         "rotated": false,
-        "position": "262"
+        "position": "157"
     },
     {
         "card_name": "Mouth",
@@ -568,12 +568,12 @@
         "position": "9"
     },
     {
-        "card_name": "Nullmist Entourage",
-        "number": 94,
+        "card_name": "Plaxmanta",
+        "number": 96,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "255"
+        "position": "32"
     },
     {
         "card_name": "Gruesome Menagerie",
@@ -584,12 +584,12 @@
         "position": "61"
     },
     {
-        "card_name": "Nyxborn Rollicker",
-        "number": 156,
-        "shape": "normal",
+        "card_name": "Refuse",
+        "number": 158,
+        "shape": "aftermath",
         "set": "Redd",
         "rotated": false,
-        "position": "79"
+        "position": "146"
     },
     {
         "card_name": "Naya Battlemage",
@@ -608,86 +608,6 @@
         "position": "158"
     },
     {
-        "card_name": "Nullmist Envoy",
-        "number": 95,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "260"
-    },
-    {
-        "card_name": "Incremental Blight",
-        "number": 126,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "64"
-    },
-    {
-        "card_name": "Onward",
-        "number": 157,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "157"
-    },
-    {
-        "card_name": "Nullwild Entourage",
-        "number": 189,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "258"
-    },
-    {
-        "card_name": "Mistmeadow Skulk",
-        "number": 64,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "2"
-    },
-    {
-        "card_name": "Plaxmanta",
-        "number": 96,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "32"
-    },
-    {
-        "card_name": "Necropotence",
-        "number": 127,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "62"
-    },
-    {
-        "card_name": "Refuse",
-        "number": 158,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "146"
-    },
-    {
-        "card_name": "Nullwild Envoy",
-        "number": 190,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "263"
-    },
-    {
-        "card_name": "Mosquito Guard",
-        "number": 65,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "11"
-    },
-    {
         "card_name": "Ray of Command",
         "number": 97,
         "shape": "normal",
@@ -696,12 +616,12 @@
         "position": "39"
     },
     {
-        "card_name": "Never",
-        "number": 128,
-        "shape": "aftermath",
+        "card_name": "Incremental Blight",
+        "number": 126,
+        "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "63"
+        "position": "64"
     },
     {
         "card_name": "Rustrazor Butcher",
@@ -720,12 +640,12 @@
         "position": "102"
     },
     {
-        "card_name": "Nullfield Entourage",
-        "number": 66,
+        "card_name": "Mistmeadow Skulk",
+        "number": 64,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "254"
+        "position": "2"
     },
     {
         "card_name": "Reason",
@@ -736,12 +656,12 @@
         "position": "163"
     },
     {
-        "card_name": "Nullpriest of Oblivion",
-        "number": 129,
+        "card_name": "Necropotence",
+        "number": 127,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "46"
+        "position": "62"
     },
     {
         "card_name": "Seal of Fire",
@@ -760,12 +680,12 @@
         "position": "95"
     },
     {
-        "card_name": "Nullfield Envoy",
-        "number": 67,
+        "card_name": "Mosquito Guard",
+        "number": 65,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "259"
+        "position": "11"
     },
     {
         "card_name": "Reduce",
@@ -776,12 +696,12 @@
         "position": "147"
     },
     {
-        "card_name": "Nullvein Entourage",
-        "number": 130,
-        "shape": "normal",
+        "card_name": "Never",
+        "number": 128,
+        "shape": "aftermath",
         "set": "Redd",
         "rotated": false,
-        "position": "256"
+        "position": "63"
     },
     {
         "card_name": "Slice and Dice",
@@ -816,12 +736,12 @@
         "position": "33"
     },
     {
-        "card_name": "Nullvein Envoy",
-        "number": 131,
+        "card_name": "Nullpriest of Oblivion",
+        "number": 129,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "261"
+        "position": "46"
     },
     {
         "card_name": "Sparkspewer",
@@ -1232,12 +1152,7 @@
         "position": "521"
     },
     {
-        "card_name": "Nullwild Howl",
-        "number": 333,
-        "shape": "fuse split",
-        "set": "Redd",
-        "rotated": true,
-        "position": "597"
+        "card_name": "e"
     },
     {
         "card_name": "Whitemane Lion",
@@ -1248,20 +1163,10 @@
         "position": "1"
     },
     {
-        "card_name": "Nullmist Howl",
-        "number": 331,
-        "shape": "fuse split",
-        "set": "Redd",
-        "rotated": true,
-        "position": "594"
+        "card_name": "e"
     },
     {
-        "card_name": "Nullvein Howl",
-        "number": 332,
-        "shape": "fuse split",
-        "set": "Redd",
-        "rotated": true,
-        "position": "595"
+        "card_name": "e"
     },
     {
         "card_name": "Rough",
@@ -1270,31 +1175,6 @@
         "set": "Redd",
         "rotated": true,
         "position": "522"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Nullfield Howl",
-        "number": 329,
-        "shape": "fuse split",
-        "set": "Redd",
-        "rotated": true,
-        "position": "593"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Nullfire Howl",
-        "number": 330,
-        "shape": "fuse split",
-        "set": "Redd",
-        "rotated": true,
-        "position": "596"
     },
     {
         "card_name": "e"
@@ -1313,12 +1193,12 @@
     },
     "a->gold",
     {
-        "card_name": "Fieldmist Ravager",
-        "number": 213,
+        "card_name": "Lawmage's Binding",
+        "number": 224,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "239"
+        "position": "115"
     },
     {
         "card_name": "Duskmantle Guildmage",
@@ -1353,12 +1233,12 @@
         "position": "136"
     },
     {
-        "card_name": "Lawmage's Binding",
-        "number": 224,
+        "card_name": "New Prahv Guildmage",
+        "number": 231,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "115"
+        "position": "113"
     },
     {
         "card_name": "House Guildmage",
@@ -1393,46 +1273,6 @@
         "position": "134"
     },
     {
-        "card_name": "New Prahv Guildmage",
-        "number": 231,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "Mistvein Ravager",
-        "number": 230,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "240"
-    },
-    {
-        "card_name": "Veinfire Ravager",
-        "number": 248,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "241"
-    },
-    {
-        "card_name": "Firewild Ravager",
-        "number": 217,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "242"
-    },
-    {
-        "card_name": "Steward of Valeron",
-        "number": 241,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "135"
-    },
-    {
         "card_name": "Senate Guildmage",
         "number": 239,
         "shape": "normal",
@@ -1465,52 +1305,12 @@
         "position": "128"
     },
     {
-        "card_name": "Vitu-Ghazi Guildmage",
-        "number": 250,
+        "card_name": "Steward of Valeron",
+        "number": 241,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "133"
-    },
-    {
-        "card_name": "Ash-Eye Prowler",
-        "number": 259,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "229"
-    },
-    {
-        "card_name": "Dimir Guildmage",
-        "number": 267,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "117"
-    },
-    {
-        "card_name": "Brimstone Prowler",
-        "number": 265,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "231"
-    },
-    {
-        "card_name": "Furystoke Prowler",
-        "number": 270,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "232"
-    },
-    {
-        "card_name": "Wildfield Ravager",
-        "number": 253,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "243"
+        "position": "135"
     },
     {
         "card_name": "Azorius Guildmage",
@@ -1521,12 +1321,12 @@
         "position": "112"
     },
     {
-        "card_name": "Quickwing Prowler",
-        "number": 284,
+        "card_name": "Dimir Guildmage",
+        "number": 267,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "230"
+        "position": "117"
     },
     {
         "card_name": "Poison the Well",
@@ -1545,12 +1345,12 @@
         "position": "127"
     },
     {
-        "card_name": "Huatli, the Sun's Heart",
-        "number": 275,
-        "shape": "planeswalker",
+        "card_name": "Vitu-Ghazi Guildmage",
+        "number": 250,
+        "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "545"
+        "position": "133"
     },
     {
         "card_name": "Dovin, Hand of Control",
@@ -1585,12 +1385,12 @@
         "position": "540"
     },
     {
-        "card_name": "Selesnya Guildmage",
-        "number": 289,
-        "shape": "normal",
+        "card_name": "Huatli, the Sun's Heart",
+        "number": 275,
+        "shape": "planeswalker",
         "set": "Redd",
         "rotated": false,
-        "position": "132"
+        "position": "545"
     },
     {
         "card_name": "Depose",
@@ -1625,12 +1425,12 @@
         "position": "541"
     },
     {
-        "card_name": "Steward of the Void",
-        "number": 293,
+        "card_name": "Selesnya Guildmage",
+        "number": 289,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "233"
+        "position": "132"
     },
     {
         "card_name": "Protect",
@@ -1721,12 +1521,7 @@
         "position": "529"
     },
     {
-        "card_name": "Mistvein Chamber",
-        "number": 372,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "210"
+        "card_name": "e"
     },
     {
         "card_name": "Toil",
@@ -1753,81 +1548,6 @@
         "position": "548"
     },
     {
-        "card_name": "Fieldmist Chamber",
-        "number": 362,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "209"
-    },
-    {
-        "card_name": "Talisman of Dominance",
-        "number": 386,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "220"
-    },
-    {
-        "card_name": "Talisman of Indulgence",
-        "number": 389,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "221"
-    },
-    {
-        "card_name": "Firewild Chamber",
-        "number": 366,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "212"
-    },
-    {
-        "card_name": "Talisman of Unity",
-        "number": 392,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "223"
-    },
-    {
-        "card_name": "Talisman of Progress",
-        "number": 390,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "219"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Veinfire Chamber",
-        "number": 393,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "211"
-    },
-    {
-        "card_name": "Talisman of Impulse",
-        "number": 388,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "222"
-    },
-    {
-        "card_name": "Wildfield Chamber",
-        "number": 396,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "213"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1843,12 +1563,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Fieldvein Ravager",
-        "number": 214,
+        "card_name": "Syndicate Guildmage",
+        "number": 245,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "244"
+        "position": "140"
     },
     {
         "card_name": "League Guildmage",
@@ -1867,46 +1587,6 @@
         "position": "149"
     },
     {
-        "card_name": "Firefield Ravager",
-        "number": 215,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "247"
-    },
-    {
-        "card_name": "Combine Guildmage",
-        "number": 208,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "161"
-    },
-    {
-        "card_name": "Syndicate Guildmage",
-        "number": 245,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "140"
-    },
-    {
-        "card_name": "Mistfire Ravager",
-        "number": 229,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "245"
-    },
-    {
-        "card_name": "Swarm Guildmage",
-        "number": 244,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "150"
-    },
-    {
         "card_name": "Legion Guildmage",
         "number": 227,
         "shape": "normal",
@@ -1915,12 +1595,12 @@
         "position": "156"
     },
     {
-        "card_name": "Wildmist Ravager",
-        "number": 254,
+        "card_name": "Combine Guildmage",
+        "number": 208,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "248"
+        "position": "161"
     },
     {
         "card_name": "Vizkopa Guildmage",
@@ -1939,12 +1619,12 @@
         "position": "144"
     },
     {
-        "card_name": "Veinwild Ravager",
-        "number": 249,
+        "card_name": "Swarm Guildmage",
+        "number": 244,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "246"
+        "position": "150"
     },
     {
         "card_name": "Sunhome Guildmage",
@@ -1963,20 +1643,20 @@
         "position": "160"
     },
     {
-        "card_name": "Chaos Drinker",
-        "number": 266,
+        "card_name": "Orzhov Guildmage",
+        "number": 281,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "234"
+        "position": "138"
     },
     {
-        "card_name": "Arcane Witness",
-        "number": 258,
+        "card_name": "Izzet Guildmage",
+        "number": 276,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "235"
+        "position": "143"
     },
     {
         "card_name": "Garruk, Swarm's Husband",
@@ -2003,46 +1683,6 @@
         "position": "568"
     },
     {
-        "card_name": "Orzhov Guildmage",
-        "number": 281,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "138"
-    },
-    {
-        "card_name": "Izzet Guildmage",
-        "number": 276,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "143"
-    },
-    {
-        "card_name": "Golgari Guildmage",
-        "number": 272,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "148"
-    },
-    {
-        "card_name": "Nuclear Prowler",
-        "number": 280,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "237"
-    },
-    {
-        "card_name": "Overthinker",
-        "number": 282,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "238"
-    },
-    {
         "card_name": "Sorin Ascendant",
         "number": 292,
         "shape": "planeswalker",
@@ -2059,12 +1699,12 @@
         "position": "554"
     },
     {
-        "card_name": "Rendclaw Trow",
-        "number": 287,
+        "card_name": "Golgari Guildmage",
+        "number": 272,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "151"
+        "position": "148"
     },
     {
         "card_name": "Tiana, Feathered Fixer",
@@ -2099,12 +1739,12 @@
         "position": "558"
     },
     {
-        "card_name": "Sludgepoker",
-        "number": 291,
+        "card_name": "Rendclaw Trow",
+        "number": 287,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
-        "position": "236"
+        "position": "151"
     },
     {
         "card_name": "Integrity",
@@ -2241,86 +1881,6 @@
         "set": "Redd",
         "rotated": true,
         "position": "571"
-    },
-    {
-        "card_name": "Fieldvein Chamber",
-        "number": 363,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "214"
-    },
-    {
-        "card_name": "Mistfire Chamber",
-        "number": 371,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "215"
-    },
-    {
-        "card_name": "Talisman of Resilience",
-        "number": 391,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "226"
-    },
-    {
-        "card_name": "Firefield Chamber",
-        "number": 364,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "217"
-    },
-    {
-        "card_name": "Talisman of Curiosity",
-        "number": 385,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "228"
-    },
-    {
-        "card_name": "Talisman of Hierarchy",
-        "number": 387,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "224"
-    },
-    {
-        "card_name": "Talisman of Creativity",
-        "number": 384,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "225"
-    },
-    {
-        "card_name": "Veinwild Chamber",
-        "number": 394,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "216"
-    },
-    {
-        "card_name": "Talisman of Conviction",
-        "number": 383,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "227"
-    },
-    {
-        "card_name": "Wildmist Chamber",
-        "number": 397,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "218"
     },
     {
         "card_name": "er"
@@ -2741,14 +2301,6 @@
     },
     "a->colorless",
     {
-        "card_name": "Advantageous Proclamation",
-        "number": 1,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "208"
-    },
-    {
         "card_name": "Aether Leech",
         "number": 2,
         "shape": "normal",
@@ -2771,14 +2323,6 @@
         "set": "Redd",
         "rotated": false,
         "position": "298"
-    },
-    {
-        "card_name": "Backup Plan",
-        "number": 5,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "205"
     },
     {
         "card_name": "Bane of the Meek",
@@ -2885,14 +2429,6 @@
         "position": "303"
     },
     {
-        "card_name": "Hymn of the Wilds",
-        "number": 19,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "204"
-    },
-    {
         "card_name": "It That Visits",
         "number": 20,
         "shape": "normal",
@@ -2949,100 +2485,12 @@
         "position": "281"
     },
     {
-        "card_name": "Nullfield Druid",
-        "number": 27,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "249"
-    },
-    {
-        "card_name": "Nullfield Scion",
-        "number": 28,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "264"
-    },
-    {
-        "card_name": "Nullfire Druid",
-        "number": 29,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "252"
-    },
-    {
-        "card_name": "Nullfire Scion",
-        "number": 30,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "267"
-    },
-    {
-        "card_name": "Nullmist Druid",
-        "number": 31,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "Nullmist Scion",
-        "number": 32,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "265"
-    },
-    {
-        "card_name": "Nullvein Druid",
-        "number": 33,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "251"
-    },
-    {
-        "card_name": "Nullvein Scion",
-        "number": 34,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "266"
-    },
-    {
-        "card_name": "Nullwild Druid",
-        "number": 35,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "253"
-    },
-    {
-        "card_name": "Nullwild Scion",
-        "number": 36,
-        "shape": "aftermath",
-        "set": "Redd",
-        "rotated": false,
-        "position": "268"
-    },
-    {
         "card_name": "Ponder the Infinite",
         "number": 37,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
         "position": "283"
-    },
-    {
-        "card_name": "Power Play",
-        "number": 38,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "207"
     },
     {
         "card_name": "Puldge",
@@ -3075,14 +2523,6 @@
         "set": "Redd",
         "rotated": false,
         "position": "297"
-    },
-    {
-        "card_name": "Sentinel Dispatch",
-        "number": 43,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "206"
     },
     {
         "card_name": "Spreading Desolation",
@@ -3292,1369 +2732,6 @@
     {
         "card_name": "er"
     },
-    "a->land",
-    {
-        "card_name": "Spawn Plains",
-        "number": 528,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "471"
-    },
-    {
-        "card_name": "Spawn Island",
-        "number": 526,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "472"
-    },
-    {
-        "card_name": "Spawn Swamp",
-        "number": 529,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "473"
-    },
-    {
-        "card_name": "Spawn Mountain",
-        "number": 527,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "474"
-    },
-    {
-        "card_name": "Spawn Forest",
-        "number": 525,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "475"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Fieldmist Crossing",
-        "number": 404,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "486"
-    },
-    {
-        "card_name": "Mistvein Crossing",
-        "number": 506,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "487"
-    },
-    {
-        "card_name": "Veinfire Crossing",
-        "number": 533,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "488"
-    },
-    {
-        "card_name": "Firewild Crossing",
-        "number": 455,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "489"
-    },
-    {
-        "card_name": "Wildfield Crossing",
-        "number": 567,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "490"
-    },
-    {
-        "card_name": "Fieldmist Farm",
-        "number": 405,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "421"
-    },
-    {
-        "card_name": "Mistvein Farm",
-        "number": 507,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "422"
-    },
-    {
-        "card_name": "Veinfire Farm",
-        "number": 534,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "423"
-    },
-    {
-        "card_name": "Firewild Farm",
-        "number": 456,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "424"
-    },
-    {
-        "card_name": "Wildfield Farm",
-        "number": 568,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "425"
-    },
-    {
-        "card_name": "Fieldmist Getaway",
-        "number": 406,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "391"
-    },
-    {
-        "card_name": "Mistvein Getaway",
-        "number": 508,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "392"
-    },
-    {
-        "card_name": "Veinfire Getaway",
-        "number": 535,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "393"
-    },
-    {
-        "card_name": "Firewild Getaway",
-        "number": 457,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "394"
-    },
-    {
-        "card_name": "Wildfield Getaway",
-        "number": 569,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "395"
-    },
-    {
-        "card_name": "Fieldmist Hovel",
-        "number": 407,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "431"
-    },
-    {
-        "card_name": "Mistvein Hovel",
-        "number": 509,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "432"
-    },
-    {
-        "card_name": "Veinfire Hovel",
-        "number": 536,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "433"
-    },
-    {
-        "card_name": "Firewild Hovel",
-        "number": 458,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "434"
-    },
-    {
-        "card_name": "Wildfield Hovel",
-        "number": 570,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "435"
-    },
-    {
-        "card_name": "Fieldmist Landfill",
-        "number": 408,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "506"
-    },
-    {
-        "card_name": "Mistvein Landfill",
-        "number": 510,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "507"
-    },
-    {
-        "card_name": "Veinfire Landfill",
-        "number": 537,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "508"
-    },
-    {
-        "card_name": "Firewild Landfill",
-        "number": 459,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "509"
-    },
-    {
-        "card_name": "Wildfield Landfill",
-        "number": 571,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "510"
-    },
-    {
-        "card_name": "Fieldmist Mine",
-        "number": 409,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "361"
-    },
-    {
-        "card_name": "Mistvein Mine",
-        "number": 511,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "362"
-    },
-    {
-        "card_name": "Veinfire Mine",
-        "number": 538,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "363"
-    },
-    {
-        "card_name": "Firewild Mine",
-        "number": 460,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "364"
-    },
-    {
-        "card_name": "Wildfield Mine",
-        "number": 572,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "365"
-    },
-    {
-        "card_name": "Fieldmist Moon",
-        "number": 410,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "321"
-    },
-    {
-        "card_name": "Mistvein Moon",
-        "number": 512,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "322"
-    },
-    {
-        "card_name": "Veinfire Moon",
-        "number": 539,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "323"
-    },
-    {
-        "card_name": "Firewild Moon",
-        "number": 461,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "324"
-    },
-    {
-        "card_name": "Wildfield Moon",
-        "number": 573,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "325"
-    },
-    {
-        "card_name": "Fieldmist Nova",
-        "number": 411,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "351"
-    },
-    {
-        "card_name": "Mistvein Nova",
-        "number": 513,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "352"
-    },
-    {
-        "card_name": "Veinfire Nova",
-        "number": 540,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "353"
-    },
-    {
-        "card_name": "Firewild Nova",
-        "number": 462,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "354"
-    },
-    {
-        "card_name": "Wildfield Nova",
-        "number": 574,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "355"
-    },
-    {
-        "card_name": "Fieldmist Observatory",
-        "number": 412,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "461"
-    },
-    {
-        "card_name": "Mistvein Observatory",
-        "number": 514,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "462"
-    },
-    {
-        "card_name": "Veinfire Observatory",
-        "number": 541,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "463"
-    },
-    {
-        "card_name": "Firewild Observatory",
-        "number": 463,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "464"
-    },
-    {
-        "card_name": "Wildfield Observatory",
-        "number": 575,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "465"
-    },
-    {
-        "card_name": "Fieldmist Power-Plant",
-        "number": 413,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "381"
-    },
-    {
-        "card_name": "Mistvein Power-Plant",
-        "number": 515,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "382"
-    },
-    {
-        "card_name": "Veinfire Power-Plant",
-        "number": 542,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "383"
-    },
-    {
-        "card_name": "Firewild Power-Plant",
-        "number": 464,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "384"
-    },
-    {
-        "card_name": "Wildfield Power-Plant",
-        "number": 576,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "385"
-    },
-    {
-        "card_name": "Fieldmist Quarry",
-        "number": 414,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "496"
-    },
-    {
-        "card_name": "Mistvein Quarry",
-        "number": 516,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "497"
-    },
-    {
-        "card_name": "Veinfire Quarry",
-        "number": 543,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "498"
-    },
-    {
-        "card_name": "Firewild Quarry",
-        "number": 465,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "499"
-    },
-    {
-        "card_name": "Wildfield Quarry",
-        "number": 577,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "500"
-    },
-    {
-        "card_name": "Fieldmist Tower",
-        "number": 415,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "371"
-    },
-    {
-        "card_name": "Mistvein Tower",
-        "number": 517,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "372"
-    },
-    {
-        "card_name": "Veinfire Tower",
-        "number": 544,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "373"
-    },
-    {
-        "card_name": "Firewild Tower",
-        "number": 466,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "374"
-    },
-    {
-        "card_name": "Wildfield Tower",
-        "number": 578,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "375"
-    },
-    {
-        "card_name": "Fieldmist Tripod",
-        "number": 416,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "341"
-    },
-    {
-        "card_name": "Mistvein Tripod",
-        "number": 518,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "342"
-    },
-    {
-        "card_name": "Veinfire Tripod",
-        "number": 545,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "343"
-    },
-    {
-        "card_name": "Firewild Tripod",
-        "number": 467,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "344"
-    },
-    {
-        "card_name": "Wildfield Tripod",
-        "number": 579,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "345"
-    },
-    {
-        "card_name": "Fieldmist Tunnel",
-        "number": 417,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "476"
-    },
-    {
-        "card_name": "Mistvein Tunnel",
-        "number": 519,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "477"
-    },
-    {
-        "card_name": "Veinfire Tunnel",
-        "number": 546,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "478"
-    },
-    {
-        "card_name": "Firewild Tunnel",
-        "number": 468,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "479"
-    },
-    {
-        "card_name": "Wildfield Tunnel",
-        "number": 580,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "480"
-    },
-    {
-        "card_name": "Fieldmist Void",
-        "number": 418,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "331"
-    },
-    {
-        "card_name": "Mistvein Void",
-        "number": 520,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "332"
-    },
-    {
-        "card_name": "Veinfire Void",
-        "number": 547,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "333"
-    },
-    {
-        "card_name": "Firewild Void",
-        "number": 469,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "334"
-    },
-    {
-        "card_name": "Wildfield Void",
-        "number": 581,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "335"
-    },
-    {
-        "card_name": "Fieldmist Wasteland",
-        "number": 419,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "411"
-    },
-    {
-        "card_name": "Mistvein Wasteland",
-        "number": 521,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "412"
-    },
-    {
-        "card_name": "Veinfire Wasteland",
-        "number": 548,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "413"
-    },
-    {
-        "card_name": "Firewild Wasteland",
-        "number": 470,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "414"
-    },
-    {
-        "card_name": "Wildfield Wasteland",
-        "number": 582,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "415"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Fieldvein Crossing",
-        "number": 421,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "491"
-    },
-    {
-        "card_name": "Mistfire Crossing",
-        "number": 489,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "492"
-    },
-    {
-        "card_name": "Veinwild Crossing",
-        "number": 550,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "493"
-    },
-    {
-        "card_name": "Firefield Crossing",
-        "number": 438,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "494"
-    },
-    {
-        "card_name": "Wildmist Crossing",
-        "number": 584,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "495"
-    },
-    {
-        "card_name": "Fieldvein Farm",
-        "number": 422,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "426"
-    },
-    {
-        "card_name": "Mistfire Farm",
-        "number": 490,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "427"
-    },
-    {
-        "card_name": "Veinwild Farm",
-        "number": 551,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "428"
-    },
-    {
-        "card_name": "Firefield Farm",
-        "number": 439,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "429"
-    },
-    {
-        "card_name": "Wildmist Farm",
-        "number": 585,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "430"
-    },
-    {
-        "card_name": "Fieldvein Getaway",
-        "number": 423,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "396"
-    },
-    {
-        "card_name": "Mistfire Getaway",
-        "number": 491,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "397"
-    },
-    {
-        "card_name": "Veinwild Getaway",
-        "number": 552,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "398"
-    },
-    {
-        "card_name": "Firefield Getaway",
-        "number": 440,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "399"
-    },
-    {
-        "card_name": "Wildmist Getaway",
-        "number": 586,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "400"
-    },
-    {
-        "card_name": "Fieldvein Hovel",
-        "number": 424,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "436"
-    },
-    {
-        "card_name": "Mistfire Hovel",
-        "number": 492,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "437"
-    },
-    {
-        "card_name": "Veinwild Hovel",
-        "number": 553,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "438"
-    },
-    {
-        "card_name": "Firefield Hovel",
-        "number": 441,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "439"
-    },
-    {
-        "card_name": "Wildmist Hovel",
-        "number": 587,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "440"
-    },
-    {
-        "card_name": "Fieldvein Landfill",
-        "number": 425,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "511"
-    },
-    {
-        "card_name": "Mistfire Landfill",
-        "number": 493,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "512"
-    },
-    {
-        "card_name": "Veinwild Landfill",
-        "number": 554,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "513"
-    },
-    {
-        "card_name": "Firefield Landfill",
-        "number": 442,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "514"
-    },
-    {
-        "card_name": "Wildmist Landfill",
-        "number": 588,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "515"
-    },
-    {
-        "card_name": "Fieldvein Mine",
-        "number": 426,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "366"
-    },
-    {
-        "card_name": "Mistfire Mine",
-        "number": 494,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "367"
-    },
-    {
-        "card_name": "Veinwild Mine",
-        "number": 555,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "368"
-    },
-    {
-        "card_name": "Firefield Mine",
-        "number": 443,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "369"
-    },
-    {
-        "card_name": "Wildmist Mine",
-        "number": 589,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "370"
-    },
-    {
-        "card_name": "Fieldvein Moon",
-        "number": 427,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "326"
-    },
-    {
-        "card_name": "Mistfire Moon",
-        "number": 495,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "327"
-    },
-    {
-        "card_name": "Veinwild Moon",
-        "number": 556,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "328"
-    },
-    {
-        "card_name": "Firefield Moon",
-        "number": 444,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "329"
-    },
-    {
-        "card_name": "Wildmist Moon",
-        "number": 590,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "330"
-    },
-    {
-        "card_name": "Fieldvein Nova",
-        "number": 428,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "356"
-    },
-    {
-        "card_name": "Mistfire Nova",
-        "number": 496,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "357"
-    },
-    {
-        "card_name": "Veinwild Nova",
-        "number": 557,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "358"
-    },
-    {
-        "card_name": "Firefield Nova",
-        "number": 445,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "359"
-    },
-    {
-        "card_name": "Wildmist Nova",
-        "number": 591,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "360"
-    },
-    {
-        "card_name": "Fieldvein Observatory",
-        "number": 429,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "466"
-    },
-    {
-        "card_name": "Mistfire Observatory",
-        "number": 497,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "467"
-    },
-    {
-        "card_name": "Veinwild Observatory",
-        "number": 558,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "468"
-    },
-    {
-        "card_name": "Firefield Observatory",
-        "number": 446,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "469"
-    },
-    {
-        "card_name": "Wildmist Observatory",
-        "number": 592,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "470"
-    },
-    {
-        "card_name": "Fieldvein Power-Plant",
-        "number": 430,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "386"
-    },
-    {
-        "card_name": "Mistfire Power-Plant",
-        "number": 498,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "387"
-    },
-    {
-        "card_name": "Veinwild Power-Plant",
-        "number": 559,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "388"
-    },
-    {
-        "card_name": "Firefield Power-Plant",
-        "number": 447,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "389"
-    },
-    {
-        "card_name": "Wildmist Power-Plant",
-        "number": 593,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "390"
-    },
-    {
-        "card_name": "Fieldvein Quarry",
-        "number": 431,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "501"
-    },
-    {
-        "card_name": "Mistfire Quarry",
-        "number": 499,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "502"
-    },
-    {
-        "card_name": "Veinwild Quarry",
-        "number": 560,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "503"
-    },
-    {
-        "card_name": "Firefield Quarry",
-        "number": 448,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "504"
-    },
-    {
-        "card_name": "Wildmist Quarry",
-        "number": 594,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "505"
-    },
-    {
-        "card_name": "Fieldvein Tower",
-        "number": 432,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "376"
-    },
-    {
-        "card_name": "Mistfire Tower",
-        "number": 500,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "377"
-    },
-    {
-        "card_name": "Veinwild Tower",
-        "number": 561,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "378"
-    },
-    {
-        "card_name": "Firefield Tower",
-        "number": 449,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "379"
-    },
-    {
-        "card_name": "Wildmist Tower",
-        "number": 595,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "380"
-    },
-    {
-        "card_name": "Fieldvein Tripod",
-        "number": 433,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "346"
-    },
-    {
-        "card_name": "Mistfire Tripod",
-        "number": 501,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "347"
-    },
-    {
-        "card_name": "Veinwild Tripod",
-        "number": 562,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "348"
-    },
-    {
-        "card_name": "Firefield Tripod",
-        "number": 450,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "349"
-    },
-    {
-        "card_name": "Wildmist Tripod",
-        "number": 596,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "350"
-    },
-    {
-        "card_name": "Fieldvein Tunnel",
-        "number": 434,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "481"
-    },
-    {
-        "card_name": "Mistfire Tunnel",
-        "number": 502,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "482"
-    },
-    {
-        "card_name": "Veinwild Tunnel",
-        "number": 563,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "483"
-    },
-    {
-        "card_name": "Firefield Tunnel",
-        "number": 451,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "484"
-    },
-    {
-        "card_name": "Wildmist Tunnel",
-        "number": 597,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "485"
-    },
-    {
-        "card_name": "Fieldvein Void",
-        "number": 435,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "336"
-    },
-    {
-        "card_name": "Mistfire Void",
-        "number": 503,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "337"
-    },
-    {
-        "card_name": "Veinwild Void",
-        "number": 564,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "338"
-    },
-    {
-        "card_name": "Firefield Void",
-        "number": 452,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "339"
-    },
-    {
-        "card_name": "Wildmist Void",
-        "number": 598,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "340"
-    },
-    {
-        "card_name": "Fieldvein Wasteland",
-        "number": 436,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "416"
-    },
-    {
-        "card_name": "Mistfire Wasteland",
-        "number": 504,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "417"
-    },
-    {
-        "card_name": "Veinwild Wasteland",
-        "number": 565,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "418"
-    },
-    {
-        "card_name": "Firefield Wasteland",
-        "number": 453,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "419"
-    },
-    {
-        "card_name": "Wildmist Wasteland",
-        "number": 599,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "420"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     {
         "card_name": "er"
     },
@@ -4665,22 +2742,6 @@
         "set": "Redd",
         "rotated": false,
         "position": "314"
-    },
-    {
-        "card_name": "Abzan Trifilter",
-        "number": 398,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "446"
-    },
-    {
-        "card_name": "Bant Trifilter",
-        "number": 399,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "441"
     },
     {
         "card_name": "Blasted Landscape",
@@ -4699,52 +2760,12 @@
         "position": "516"
     },
     {
-        "card_name": "Esper Trifilter",
-        "number": 402,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "442"
-    },
-    {
         "card_name": "Eternal Respite",
         "number": 403,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
         "position": "313"
-    },
-    {
-        "card_name": "Fieldmist Wastes",
-        "number": 420,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "401"
-    },
-    {
-        "card_name": "Fieldvein Wastes",
-        "number": 437,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "406"
-    },
-    {
-        "card_name": "Firefield Wastes",
-        "number": 454,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "409"
-    },
-    {
-        "card_name": "Firewild Wastes",
-        "number": 471,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "404"
     },
     {
         "card_name": "Geier Reach Sanitarium",
@@ -4763,148 +2784,12 @@
         "position": "312"
     },
     {
-        "card_name": "Grixis Trifilter",
-        "number": 474,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "443"
-    },
-    {
-        "card_name": "Inverted Badlands",
-        "number": 475,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "453"
-    },
-    {
-        "card_name": "Inverted Bayou",
-        "number": 476,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "458"
-    },
-    {
-        "card_name": "Inverted Plateau",
-        "number": 477,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "459"
-    },
-    {
-        "card_name": "Inverted Savannah",
-        "number": 478,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "455"
-    },
-    {
-        "card_name": "Inverted Scrubland",
-        "number": 479,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "456"
-    },
-    {
-        "card_name": "Inverted Taiga",
-        "number": 480,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "454"
-    },
-    {
-        "card_name": "Inverted Tropical Island",
-        "number": 481,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "460"
-    },
-    {
-        "card_name": "Inverted Tundra",
-        "number": 482,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "451"
-    },
-    {
-        "card_name": "Inverted Underground Sea",
-        "number": 483,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "452"
-    },
-    {
-        "card_name": "Inverted Volcanic Island",
-        "number": 484,
-        "shape": "flip",
-        "set": "Redd",
-        "rotated": false,
-        "position": "457"
-    },
-    {
-        "card_name": "Jeskai Trifilter",
-        "number": 485,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "447"
-    },
-    {
-        "card_name": "Jund Trifilter",
-        "number": 486,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "444"
-    },
-    {
         "card_name": "Mana Confluence",
         "number": 487,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
         "position": "317"
-    },
-    {
-        "card_name": "Mardu Trifilter",
-        "number": 488,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "449"
-    },
-    {
-        "card_name": "Mistfire Wastes",
-        "number": 505,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "407"
-    },
-    {
-        "card_name": "Mistvein Wastes",
-        "number": 522,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "402"
-    },
-    {
-        "card_name": "Naya Trifilter",
-        "number": 523,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "445"
     },
     {
         "card_name": "Quicksand",
@@ -4915,60 +2800,12 @@
         "position": "320"
     },
     {
-        "card_name": "Sultai Trifilter",
-        "number": 530,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "448"
-    },
-    {
-        "card_name": "Temur Trifilter",
-        "number": 531,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "450"
-    },
-    {
         "card_name": "Untapped Land",
         "number": 532,
         "shape": "normal",
         "set": "Redd",
         "rotated": false,
         "position": "319"
-    },
-    {
-        "card_name": "Veinfire Wastes",
-        "number": 549,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "403"
-    },
-    {
-        "card_name": "Veinwild Wastes",
-        "number": 566,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "408"
-    },
-    {
-        "card_name": "Wildfield Wastes",
-        "number": 583,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "405"
-    },
-    {
-        "card_name": "Wildmist Wastes",
-        "number": 600,
-        "shape": "normal",
-        "set": "Redd",
-        "rotated": false,
-        "position": "410"
     },
     {
         "card_name": "e"

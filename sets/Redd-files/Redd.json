@@ -552,10 +552,10 @@
             "number": 93,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Bestow {4}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]",
+            "rules_text": "Bestow {4}{U} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
-            "special_text": "Bestow {4}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]",
+            "special_text": "Bestow {4}{U} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -1005,7 +1005,7 @@
             "number": 129,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Kicker {3}{B}: Summon target dead creature you own.\nLifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\nMenace [i](This creature can't be blocked except by two or more creatures.)[/i]",
+            "rules_text": "Kicker {3}{B}: Summon target dead creature you own.\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nMenace [i](This creature can't be blocked except by two or more creatures.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1089,10 +1089,10 @@
             "number": 138,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Bestow {3}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nWhenever this creature attacks, defending player loses 2 life.",
+            "rules_text": "Bestow {3}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nWhenever this creature attacks, defending player loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
-            "special_text": "Bestow {3}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nWhenever this creature attacks, defending player loses 2 life.",
+            "special_text": "Bestow {3}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nWhenever this creature attacks, defending player loses 2 life.",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -1110,10 +1110,10 @@
             "number": 112,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]",
+            "rules_text": "Bestow {4}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
-            "special_text": "Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]",
+            "special_text": "Bestow {4}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -1169,7 +1169,7 @@
             "card_name": "Blight Keeper",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2014 Bat Imp",
             "number": 113,
             "color_identity": "B",
             "cost": "{B}",
@@ -1278,7 +1278,7 @@
             "number": 137,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Swamp-force 4/L [i](If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.)[/i]\nDestroy target nonblack creature. It can't be regenerated.",
+            "rules_text": "Swamp-force {4}L [i](If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.)[/i]\nDestroy target nonblack creature. It can't be regenerated.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1542,7 +1542,7 @@
             "number": 164,
             "color_identity": "UR",
             "cost": "{2}{R}",
-            "rules_text": "Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\n{1}{U}: Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]",
+            "rules_text": "Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\n{1}{U}: Scry 1. [i](Look at the top card of your library. You may hide it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1584,10 +1584,10 @@
             "number": 163,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Bestow {5}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
+            "rules_text": "Bestow {5}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
-            "special_text": "Bestow {5}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
+            "special_text": "Bestow {5}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nFirst strike [i](This creature deals combat damage before creatures without first strike.)[/i]",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -1710,10 +1710,10 @@
             "number": 156,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Bestow {1}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\n",
+            "rules_text": "Bestow {1}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\n",
             "flavor_text": "[i]I want to rock and roll all night and party every day.[/i]",
             "pt": "1/1",
-            "special_text": "Bestow {1}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\n",
+            "special_text": "Bestow {1}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\n",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -1794,7 +1794,7 @@
             "number": 161,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Slice and Dice deals 4 damage to each creature.\nCycling {2}{R} [i]({2}{R}, Discard this card: Draw a card.)[/i]\nWhen you cycle Slice and Dice, you may have it deal 1 damage to each creature.",
+            "rules_text": "Slice and Dice deals 4 damage to each creature.\nCycling {2}{R} [i]({2}{R}, P: Draw a card.)[/i]\nWhen you cycle Slice and Dice, you may have it deal 1 damage to each creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2991,7 +2991,7 @@
             "number": 206,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]\nYou gain 4 life.",
+            "rules_text": "Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Hide the exiled cards in a random order.)[/i]\nYou gain 4 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3678,7 +3678,7 @@
             "number": 98,
             "color_identity": "UG",
             "cost": "{U}",
-            "rules_text": "Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
+            "rules_text": "Scry 3. [i](Look at the top three cards of your library. You may hide any number of them and shelve the rest in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3774,7 +3774,7 @@
             "number": 212,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.\nCycling {2}{U} [i]({2}{U}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.\nCycling {2}{U} [i]({2}{U}, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3879,7 +3879,7 @@
             "number": 221,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.\nCycling {2}{R} [i]({2}{R}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.\nCycling {2}{R} [i]({2}{R}, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4562,7 +4562,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": "Actual"
+            "notes": "Actual\n!group conspiracy"
         },
         {
             "card_name": "Backup Plan",
@@ -4583,7 +4583,7 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": "Actual"
+            "notes": "Actual\n!group conspiracy"
         },
         {
             "card_name": "Sentinel Dispatch",
@@ -4604,7 +4604,7 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": "Actual"
+            "notes": "Actual\n!group conspiracy"
         },
         {
             "card_name": "Power Play",
@@ -4625,7 +4625,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "Actual"
+            "notes": "Actual\n!group conspiracy"
         },
         {
             "card_name": "Advantageous Proclamation",
@@ -4646,7 +4646,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "Actual"
+            "notes": "Actual\n!group conspiracy"
         },
         {
             "card_name": "Fieldmist Chamber",
@@ -4667,7 +4667,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Mistvein Chamber",
@@ -4688,7 +4688,7 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Veinfire Chamber",
@@ -4709,7 +4709,7 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Firewild Chamber",
@@ -4730,7 +4730,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Wildfield Chamber",
@@ -4751,7 +4751,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Fieldvein Chamber",
@@ -4772,7 +4772,7 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Mistfire Chamber",
@@ -4793,7 +4793,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Veinwild Chamber",
@@ -4814,7 +4814,7 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Firefield Chamber",
@@ -4835,7 +4835,7 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Wildmist Chamber",
@@ -4856,7 +4856,7 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": ""
+            "notes": "!group chamber"
         },
         {
             "card_name": "Talisman of Progress",
@@ -4877,7 +4877,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Dominance",
@@ -4898,7 +4898,7 @@
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Indulgence",
@@ -4919,7 +4919,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Impulse",
@@ -4940,7 +4940,7 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Unity",
@@ -4961,7 +4961,7 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Hierarchy",
@@ -4982,7 +4982,7 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Creativity",
@@ -5003,7 +5003,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Resilience",
@@ -5024,7 +5024,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Conviction",
@@ -5045,7 +5045,7 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Talisman of Curiosity",
@@ -5066,7 +5066,7 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": "Update pay 1 life instead of deals damage"
+            "notes": "!group talisman\nUpdate pay 1 life instead of deals damage"
         },
         {
             "card_name": "Ash-Eye Prowler",
@@ -5087,7 +5087,7 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Quickwing Prowler",
@@ -5108,7 +5108,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Brimstone Prowler",
@@ -5129,7 +5129,7 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Furystoke Prowler",
@@ -5139,7 +5139,7 @@
             "number": 270,
             "color_identity": "RG",
             "cost": "{C}{RG}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nTrample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]\n[i]Bloodrush[/i] \u2014 {C}, P: Target attacking creature gets +1/+1 and gains devoid and trample until end of turn.",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nTrample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]\n[i]Bloodrush[/i] \u2014 {C}, P: Target attacking creature gets +1/+1 and gains devoid and trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5150,7 +5150,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Steward of the Void",
@@ -5171,7 +5171,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Chaos Drinker",
@@ -5181,7 +5181,7 @@
             "number": 266,
             "color_identity": "WB",
             "cost": "{C}{WB}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nLifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]\nExtort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nExtort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5192,7 +5192,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Arcane Witness",
@@ -5213,7 +5213,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Sludgepoker",
@@ -5223,7 +5223,7 @@
             "number": 291,
             "color_identity": "BG",
             "cost": "{C}{BG}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nTrample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nTrample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5234,7 +5234,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Nuclear Prowler",
@@ -5255,7 +5255,7 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Overthinker",
@@ -5276,7 +5276,7 @@
             "alias": "",
             "position": "238",
             "rotated": false,
-            "notes": ""
+            "notes": "!group prowler"
         },
         {
             "card_name": "Fieldmist Ravager",
@@ -5297,7 +5297,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Mistvein Ravager",
@@ -5318,7 +5318,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Veinfire Ravager",
@@ -5339,7 +5339,7 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Firewild Ravager",
@@ -5349,7 +5349,7 @@
             "number": 217,
             "color_identity": "RG",
             "cost": "{C}{R}{G}",
-            "rules_text": "Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]\nBushido 2 [i](Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)[/i]",
+            "rules_text": "Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]\nBushido 2 [i](When this blocks or becomes blocked, it gets +2/+2 until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5360,7 +5360,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Wildfield Ravager",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Fieldvein Ravager",
@@ -5402,7 +5402,7 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Mistfire Ravager",
@@ -5423,7 +5423,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Veinwild Ravager",
@@ -5444,7 +5444,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Firefield Ravager",
@@ -5465,7 +5465,7 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Wildmist Ravager",
@@ -5486,7 +5486,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "!group ravager"
         },
         {
             "card_name": "Nullfield Druid",
@@ -5507,7 +5507,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nulldruid"
         },
         {
             "card_name": "Nullmist Druid",
@@ -5528,7 +5528,7 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nulldruid"
         },
         {
             "card_name": "Nullvein Druid",
@@ -5549,7 +5549,7 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nulldruid"
         },
         {
             "card_name": "Nullfire Druid",
@@ -5570,7 +5570,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nulldruid"
         },
         {
             "card_name": "Nullwild Druid",
@@ -5591,7 +5591,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nulldruid"
         },
         {
             "card_name": "Nullfield Entourage",
@@ -5612,7 +5612,7 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "!group entourage"
         },
         {
             "card_name": "Nullmist Entourage",
@@ -5633,7 +5633,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": ""
+            "notes": "!group entourage"
         },
         {
             "card_name": "Nullvein Entourage",
@@ -5654,7 +5654,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": ""
+            "notes": "!group entourage"
         },
         {
             "card_name": "Nullfire Entourage",
@@ -5675,7 +5675,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": ""
+            "notes": "!group entourage"
         },
         {
             "card_name": "Nullwild Entourage",
@@ -5696,7 +5696,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": ""
+            "notes": "!group entourage"
         },
         {
             "card_name": "Nullfield Envoy",
@@ -5717,7 +5717,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": ""
+            "notes": "!group envoy"
         },
         {
             "card_name": "Nullmist Envoy",
@@ -5738,7 +5738,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "Nullmist Envoy phases out too, needs reprint for reminder text"
+            "notes": "!group envoy\nNullmist Envoy phases out too, needs reprint for reminder text"
         },
         {
             "card_name": "Nullvein Envoy",
@@ -5759,7 +5759,7 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": ""
+            "notes": "!group envoy"
         },
         {
             "card_name": "Nullfire Envoy",
@@ -5780,7 +5780,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": ""
+            "notes": "!group envoy"
         },
         {
             "card_name": "Nullwild Envoy",
@@ -5801,7 +5801,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": ""
+            "notes": "!group envoy"
         },
         {
             "card_name": "Nullfield Scion",
@@ -5834,7 +5834,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nullmath"
         },
         {
             "card_name": "Nullmist Scion",
@@ -5867,7 +5867,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nullmath"
         },
         {
             "card_name": "Nullvein Scion",
@@ -5900,7 +5900,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nullmath"
         },
         {
             "card_name": "Nullfire Scion",
@@ -5933,7 +5933,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nullmath"
         },
         {
             "card_name": "Nullwild Scion",
@@ -5966,7 +5966,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nullmath"
         },
         {
             "card_name": "Fill the Void",
@@ -6480,7 +6480,7 @@
             "number": 45,
             "color_identity": "C",
             "cost": "{1}{C}{C}",
-            "rules_text": "Mirage C",
+            "rules_text": "Mirage {C} [i](You may cast this spell for its mirage cost at any time. If you do, it's melting.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "+2/+2",
             "special_text": "",
@@ -6564,7 +6564,7 @@
             "number": 42,
             "color_identity": "C",
             "cost": "{1}{C}",
-            "rules_text": "Megamorph {C} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]\nWhen Seer of Doom is turned face-up, fateseal 1. [i](Look at the top card of an opponent's library, then you may put it on the bottom of that player's library.)[/i]",
+            "rules_text": "Megamorph {C} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]\nWhen Seer of Doom is turned face-up, fateseal 1. [i](Look at the top card of an opponent's library. You may hide it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6585,10 +6585,10 @@
             "number": 4,
             "color_identity": "C",
             "cost": "{1}{C}",
-            "rules_text": "Bestow {1}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nIntimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]",
+            "rules_text": "Bestow {1}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nIntimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
-            "special_text": "Bestow {1}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nIntimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]",
+            "special_text": "Bestow {1}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nIntimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -6837,10 +6837,10 @@
             "number": 39,
             "color_identity": "C",
             "cost": "{C}",
-            "rules_text": "Bestow {2}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nAbsorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
+            "rules_text": "Bestow {2}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nAbsorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
-            "special_text": "Bestow {2}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]\nAbsorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
+            "special_text": "Bestow {2}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]\nAbsorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
             "shape": "normal",
             "set": "Redd",
             "loyalty": "",
@@ -6975,7 +6975,7 @@
             "number": 400,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "{T}: Add {C}.\nCycling {2} [i]({2}, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7091,7 +7091,7 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Mistvein Moon",
@@ -7112,7 +7112,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Veinfire Moon",
@@ -7133,7 +7133,7 @@
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Firewild Moon",
@@ -7154,7 +7154,7 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Wildfield Moon",
@@ -7175,7 +7175,7 @@
             "alias": "",
             "position": "325",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Fieldvein Moon",
@@ -7196,7 +7196,7 @@
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Mistfire Moon",
@@ -7217,7 +7217,7 @@
             "alias": "",
             "position": "327",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Veinwild Moon",
@@ -7238,7 +7238,7 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Firefield Moon",
@@ -7259,7 +7259,7 @@
             "alias": "",
             "position": "329",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Wildmist Moon",
@@ -7280,7 +7280,7 @@
             "alias": "",
             "position": "330",
             "rotated": false,
-            "notes": ""
+            "notes": "!group moon"
         },
         {
             "card_name": "Fieldmist Void",
@@ -7290,7 +7290,7 @@
             "number": 418,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {W} or {U}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {W} or {U}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7301,7 +7301,7 @@
             "alias": "",
             "position": "331",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Mistvein Void",
@@ -7311,7 +7311,7 @@
             "number": 520,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {U} or {B}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {U} or {B}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7322,7 +7322,7 @@
             "alias": "",
             "position": "332",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Veinfire Void",
@@ -7332,7 +7332,7 @@
             "number": 547,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {B} or {R}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {B} or {R}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7343,7 +7343,7 @@
             "alias": "",
             "position": "333",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Firewild Void",
@@ -7353,7 +7353,7 @@
             "number": 469,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {R} or {G}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {R} or {G}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7364,7 +7364,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Wildfield Void",
@@ -7374,7 +7374,7 @@
             "number": 581,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {G} or {W}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {G} or {W}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7385,7 +7385,7 @@
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Fieldvein Void",
@@ -7395,7 +7395,7 @@
             "number": 435,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {W} or {B}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {W} or {B}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7406,7 +7406,7 @@
             "alias": "",
             "position": "336",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Mistfire Void",
@@ -7416,7 +7416,7 @@
             "number": 503,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {U} or {R}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {U} or {R}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7427,7 +7427,7 @@
             "alias": "",
             "position": "337",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Veinwild Void",
@@ -7437,7 +7437,7 @@
             "number": 564,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {B} or {G}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {B} or {G}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7448,7 +7448,7 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Firefield Void",
@@ -7458,7 +7458,7 @@
             "number": 452,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {R} or {W}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {R} or {W}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7469,7 +7469,7 @@
             "alias": "",
             "position": "339",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Wildmist Void",
@@ -7479,7 +7479,7 @@
             "number": 598,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {G} or {U}.)[/i]\nWastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {G} or {U}.)[/i]\nWastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7490,7 +7490,7 @@
             "alias": "",
             "position": "340",
             "rotated": false,
-            "notes": ""
+            "notes": "!group void"
         },
         {
             "card_name": "Fieldmist Tripod",
@@ -7511,7 +7511,7 @@
             "alias": "",
             "position": "341",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Mistvein Tripod",
@@ -7532,7 +7532,7 @@
             "alias": "",
             "position": "342",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Veinfire Tripod",
@@ -7553,7 +7553,7 @@
             "alias": "",
             "position": "343",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Firewild Tripod",
@@ -7574,7 +7574,7 @@
             "alias": "",
             "position": "344",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Wildfield Tripod",
@@ -7595,7 +7595,7 @@
             "alias": "",
             "position": "345",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Fieldvein Tripod",
@@ -7616,7 +7616,7 @@
             "alias": "",
             "position": "346",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Mistfire Tripod",
@@ -7637,7 +7637,7 @@
             "alias": "",
             "position": "347",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Veinwild Tripod",
@@ -7658,7 +7658,7 @@
             "alias": "",
             "position": "348",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Firefield Tripod",
@@ -7679,7 +7679,7 @@
             "alias": "",
             "position": "349",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Wildmist Tripod",
@@ -7700,7 +7700,7 @@
             "alias": "",
             "position": "350",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tripod"
         },
         {
             "card_name": "Fieldmist Nova",
@@ -7721,7 +7721,7 @@
             "alias": "",
             "position": "351",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Mistvein Nova",
@@ -7742,7 +7742,7 @@
             "alias": "",
             "position": "352",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Veinfire Nova",
@@ -7763,7 +7763,7 @@
             "alias": "",
             "position": "353",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Firewild Nova",
@@ -7784,7 +7784,7 @@
             "alias": "",
             "position": "354",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Wildfield Nova",
@@ -7805,7 +7805,7 @@
             "alias": "",
             "position": "355",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Fieldvein Nova",
@@ -7826,7 +7826,7 @@
             "alias": "",
             "position": "356",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Mistfire Nova",
@@ -7847,7 +7847,7 @@
             "alias": "",
             "position": "357",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Veinwild Nova",
@@ -7868,7 +7868,7 @@
             "alias": "",
             "position": "358",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Firefield Nova",
@@ -7889,7 +7889,7 @@
             "alias": "",
             "position": "359",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Wildmist Nova",
@@ -7910,7 +7910,7 @@
             "alias": "",
             "position": "360",
             "rotated": false,
-            "notes": ""
+            "notes": "!group nova"
         },
         {
             "card_name": "Fieldmist Mine",
@@ -7931,7 +7931,7 @@
             "alias": "",
             "position": "361",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Mistvein Mine",
@@ -7952,7 +7952,7 @@
             "alias": "",
             "position": "362",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Veinfire Mine",
@@ -7973,7 +7973,7 @@
             "alias": "",
             "position": "363",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Firewild Mine",
@@ -7994,7 +7994,7 @@
             "alias": "",
             "position": "364",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Wildfield Mine",
@@ -8015,7 +8015,7 @@
             "alias": "",
             "position": "365",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Fieldvein Mine",
@@ -8036,7 +8036,7 @@
             "alias": "",
             "position": "366",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Mistfire Mine",
@@ -8057,7 +8057,7 @@
             "alias": "",
             "position": "367",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Veinwild Mine",
@@ -8078,7 +8078,7 @@
             "alias": "",
             "position": "368",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Firefield Mine",
@@ -8099,7 +8099,7 @@
             "alias": "",
             "position": "369",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Wildmist Mine",
@@ -8120,7 +8120,7 @@
             "alias": "",
             "position": "370",
             "rotated": false,
-            "notes": "Reminder misprint"
+            "notes": "!group wastemine\nReminder misprint"
         },
         {
             "card_name": "Fieldmist Tower",
@@ -8141,7 +8141,7 @@
             "alias": "",
             "position": "371",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Mistvein Tower",
@@ -8162,7 +8162,7 @@
             "alias": "",
             "position": "372",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Veinfire Tower",
@@ -8183,7 +8183,7 @@
             "alias": "",
             "position": "373",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Firewild Tower",
@@ -8204,7 +8204,7 @@
             "alias": "",
             "position": "374",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Wildfield Tower",
@@ -8225,7 +8225,7 @@
             "alias": "",
             "position": "375",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Fieldvein Tower",
@@ -8246,7 +8246,7 @@
             "alias": "",
             "position": "376",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Mistfire Tower",
@@ -8267,7 +8267,7 @@
             "alias": "",
             "position": "377",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Veinwild Tower",
@@ -8288,7 +8288,7 @@
             "alias": "",
             "position": "378",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Firefield Tower",
@@ -8309,7 +8309,7 @@
             "alias": "",
             "position": "379",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Wildmist Tower",
@@ -8330,7 +8330,7 @@
             "alias": "",
             "position": "380",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tower"
         },
         {
             "card_name": "Fieldmist Power-Plant",
@@ -8351,7 +8351,7 @@
             "alias": "",
             "position": "381",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Mistvein Power-Plant",
@@ -8372,7 +8372,7 @@
             "alias": "",
             "position": "382",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Veinfire Power-Plant",
@@ -8393,7 +8393,7 @@
             "alias": "",
             "position": "383",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Firewild Power-Plant",
@@ -8414,7 +8414,7 @@
             "alias": "",
             "position": "384",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Wildfield Power-Plant",
@@ -8435,7 +8435,7 @@
             "alias": "",
             "position": "385",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Fieldvein Power-Plant",
@@ -8456,7 +8456,7 @@
             "alias": "",
             "position": "386",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Mistfire Power-Plant",
@@ -8477,7 +8477,7 @@
             "alias": "",
             "position": "387",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Veinwild Power-Plant",
@@ -8498,7 +8498,7 @@
             "alias": "",
             "position": "388",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Firefield Power-Plant",
@@ -8519,7 +8519,7 @@
             "alias": "",
             "position": "389",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Wildmist Power-Plant",
@@ -8540,7 +8540,7 @@
             "alias": "",
             "position": "390",
             "rotated": false,
-            "notes": ""
+            "notes": "!group power-plant"
         },
         {
             "card_name": "Fieldmist Getaway",
@@ -8561,7 +8561,7 @@
             "alias": "",
             "position": "391",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Mistvein Getaway",
@@ -8582,7 +8582,7 @@
             "alias": "",
             "position": "392",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Veinfire Getaway",
@@ -8603,7 +8603,7 @@
             "alias": "",
             "position": "393",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Firewild Getaway",
@@ -8624,7 +8624,7 @@
             "alias": "",
             "position": "394",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Wildfield Getaway",
@@ -8645,7 +8645,7 @@
             "alias": "",
             "position": "395",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Fieldvein Getaway",
@@ -8666,7 +8666,7 @@
             "alias": "",
             "position": "396",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Mistfire Getaway",
@@ -8687,7 +8687,7 @@
             "alias": "",
             "position": "397",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Veinwild Getaway",
@@ -8708,7 +8708,7 @@
             "alias": "",
             "position": "398",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Firefield Getaway",
@@ -8729,7 +8729,7 @@
             "alias": "",
             "position": "399",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Wildmist Getaway",
@@ -8750,7 +8750,7 @@
             "alias": "",
             "position": "400",
             "rotated": false,
-            "notes": ""
+            "notes": "!group getaway"
         },
         {
             "card_name": "Fieldmist Wastes",
@@ -8771,7 +8771,7 @@
             "alias": "",
             "position": "401",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Mistvein Wastes",
@@ -8792,7 +8792,7 @@
             "alias": "",
             "position": "402",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Veinfire Wastes",
@@ -8813,7 +8813,7 @@
             "alias": "",
             "position": "403",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Firewild Wastes",
@@ -8834,7 +8834,7 @@
             "alias": "",
             "position": "404",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Wildfield Wastes",
@@ -8855,7 +8855,7 @@
             "alias": "",
             "position": "405",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Fieldvein Wastes",
@@ -8876,7 +8876,7 @@
             "alias": "",
             "position": "406",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Mistfire Wastes",
@@ -8897,7 +8897,7 @@
             "alias": "",
             "position": "407",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Veinwild Wastes",
@@ -8918,7 +8918,7 @@
             "alias": "",
             "position": "408",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Firefield Wastes",
@@ -8939,7 +8939,7 @@
             "alias": "",
             "position": "409",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Wildmist Wastes",
@@ -8960,7 +8960,7 @@
             "alias": "",
             "position": "410",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastefetch"
         },
         {
             "card_name": "Fieldmist Wasteland",
@@ -8981,7 +8981,7 @@
             "alias": "",
             "position": "411",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Mistvein Wasteland",
@@ -9002,7 +9002,7 @@
             "alias": "",
             "position": "412",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Veinfire Wasteland",
@@ -9023,7 +9023,7 @@
             "alias": "",
             "position": "413",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Firewild Wasteland",
@@ -9044,7 +9044,7 @@
             "alias": "",
             "position": "414",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Wildfield Wasteland",
@@ -9065,7 +9065,7 @@
             "alias": "",
             "position": "415",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Fieldvein Wasteland",
@@ -9086,7 +9086,7 @@
             "alias": "",
             "position": "416",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Mistfire Wasteland",
@@ -9107,7 +9107,7 @@
             "alias": "",
             "position": "417",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Veinwild Wasteland",
@@ -9128,7 +9128,7 @@
             "alias": "",
             "position": "418",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Firefield Wasteland",
@@ -9149,7 +9149,7 @@
             "alias": "",
             "position": "419",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Wildmist Wasteland",
@@ -9170,7 +9170,7 @@
             "alias": "",
             "position": "420",
             "rotated": false,
-            "notes": ""
+            "notes": "!group wastepain"
         },
         {
             "card_name": "Fieldmist Farm",
@@ -9191,7 +9191,7 @@
             "alias": "",
             "position": "421",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Mistvein Farm",
@@ -9212,7 +9212,7 @@
             "alias": "",
             "position": "422",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Veinfire Farm",
@@ -9233,7 +9233,7 @@
             "alias": "",
             "position": "423",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Firewild Farm",
@@ -9254,7 +9254,7 @@
             "alias": "",
             "position": "424",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Wildfield Farm",
@@ -9275,7 +9275,7 @@
             "alias": "",
             "position": "425",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Fieldvein Farm",
@@ -9296,7 +9296,7 @@
             "alias": "",
             "position": "426",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Mistfire Farm",
@@ -9317,7 +9317,7 @@
             "alias": "",
             "position": "427",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Veinwild Farm",
@@ -9338,7 +9338,7 @@
             "alias": "",
             "position": "428",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Firefield Farm",
@@ -9359,7 +9359,7 @@
             "alias": "",
             "position": "429",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Wildmist Farm",
@@ -9380,7 +9380,7 @@
             "alias": "",
             "position": "430",
             "rotated": false,
-            "notes": ""
+            "notes": "!group farm"
         },
         {
             "card_name": "Fieldmist Hovel",
@@ -9390,7 +9390,7 @@
             "number": 407,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {W}, or {U}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {W}, or {U}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9401,7 +9401,7 @@
             "alias": "",
             "position": "431",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Mistvein Hovel",
@@ -9411,7 +9411,7 @@
             "number": 509,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {U}, or {B}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {U}, or {B}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9422,7 +9422,7 @@
             "alias": "",
             "position": "432",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Veinfire Hovel",
@@ -9432,7 +9432,7 @@
             "number": 536,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {B}, or {R}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {B}, or {R}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9443,7 +9443,7 @@
             "alias": "",
             "position": "433",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Firewild Hovel",
@@ -9453,7 +9453,7 @@
             "number": 458,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {R}, or {G}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {R}, or {G}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9464,7 +9464,7 @@
             "alias": "",
             "position": "434",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Wildfield Hovel",
@@ -9474,7 +9474,7 @@
             "number": 570,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {G}, or {W}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {G}, or {W}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9485,7 +9485,7 @@
             "alias": "",
             "position": "435",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Fieldvein Hovel",
@@ -9495,7 +9495,7 @@
             "number": 424,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {W}, or {B}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {W}, or {B}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9506,7 +9506,7 @@
             "alias": "",
             "position": "436",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Mistfire Hovel",
@@ -9516,7 +9516,7 @@
             "number": 492,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {U}, or {R}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {U}, or {R}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9527,7 +9527,7 @@
             "alias": "",
             "position": "437",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Veinwild Hovel",
@@ -9537,7 +9537,7 @@
             "number": 553,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {B}, or {G}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {B}, or {G}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9548,7 +9548,7 @@
             "alias": "",
             "position": "438",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Firefield Hovel",
@@ -9558,7 +9558,7 @@
             "number": 441,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {R}, or {W}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {R}, or {W}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9569,7 +9569,7 @@
             "alias": "",
             "position": "439",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Wildmist Hovel",
@@ -9579,7 +9579,7 @@
             "number": 587,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {G}, or {U}.)[/i]\nCycling 3/L [i](Pay 3 life, P: Draw a card.)[/i]",
+            "rules_text": "[i](Slow permanents enter tapped.)[/i]\n[i]({T}: Add {C}, {G}, or {U}.)[/i]\nCycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9590,7 +9590,7 @@
             "alias": "",
             "position": "440",
             "rotated": false,
-            "notes": ""
+            "notes": "!group hovel"
         },
         {
             "card_name": "Bant Trifilter",
@@ -9611,7 +9611,7 @@
             "alias": "",
             "position": "441",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Esper Trifilter",
@@ -9632,7 +9632,7 @@
             "alias": "",
             "position": "442",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Grixis Trifilter",
@@ -9653,7 +9653,7 @@
             "alias": "",
             "position": "443",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Jund Trifilter",
@@ -9674,7 +9674,7 @@
             "alias": "",
             "position": "444",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Naya Trifilter",
@@ -9695,7 +9695,7 @@
             "alias": "",
             "position": "445",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Abzan Trifilter",
@@ -9716,7 +9716,7 @@
             "alias": "",
             "position": "446",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Jeskai Trifilter",
@@ -9737,7 +9737,7 @@
             "alias": "",
             "position": "447",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Sultai Trifilter",
@@ -9758,7 +9758,7 @@
             "alias": "",
             "position": "448",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Mardu Trifilter",
@@ -9779,7 +9779,7 @@
             "alias": "",
             "position": "449",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Temur Trifilter",
@@ -9800,7 +9800,7 @@
             "alias": "",
             "position": "450",
             "rotated": false,
-            "notes": ""
+            "notes": "!group trifilter"
         },
         {
             "card_name": "Inverted Tundra",
@@ -9824,7 +9824,7 @@
             "color2": "",
             "type2": "Land \u2014 Plains Island",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {W} or {U}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {W} or {U}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9833,7 +9833,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Underground Sea",
@@ -9857,7 +9857,7 @@
             "color2": "",
             "type2": "Land \u2014 Island Swamp",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {U} or {B}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {U} or {B}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9866,7 +9866,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/custommagic/comments/tkkege/a_proof_of_concept_for_a_very_simple_idea_i_had/?utm_source=share&utm_medium=web2x&context=3"
+            "notes": "!group inverted\nhttps://www.reddit.com/r/custommagic/comments/tkkege/a_proof_of_concept_for_a_very_simple_idea_i_had/?utm_source=share&utm_medium=web2x&context=3"
         },
         {
             "card_name": "Inverted Badlands",
@@ -9890,7 +9890,7 @@
             "color2": "",
             "type2": "Land \u2014 Swamp Mountain",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {B} or {R}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {B} or {R}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9899,7 +9899,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Taiga",
@@ -9923,7 +9923,7 @@
             "color2": "",
             "type2": "Land \u2014 Mountain Forest",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {R} or {G}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {R} or {G}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9932,7 +9932,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Savannah",
@@ -9956,7 +9956,7 @@
             "color2": "",
             "type2": "Land \u2014 Forest Plains",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {G} or {W}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {G} or {W}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9965,7 +9965,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "u/MindShrew"
+            "notes": "!group inverted\nu/MindShrew"
         },
         {
             "card_name": "Inverted Scrubland",
@@ -9989,7 +9989,7 @@
             "color2": "",
             "type2": "Land \u2014 Plains Swamp",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {W} or {B}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {W} or {B}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -9998,7 +9998,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Volcanic Island",
@@ -10022,7 +10022,7 @@
             "color2": "",
             "type2": "Land \u2014 Island Mountain",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {U} or {R}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {U} or {R}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -10031,7 +10031,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Bayou",
@@ -10055,7 +10055,7 @@
             "color2": "",
             "type2": "Land \u2014 Swamp Forest",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {B} or {G}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {B} or {G}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -10064,7 +10064,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Plateau",
@@ -10088,7 +10088,7 @@
             "color2": "",
             "type2": "Land \u2014 Mountain Plains",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {R} or {W}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {R} or {W}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -10097,7 +10097,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Inverted Tropical Island",
@@ -10121,7 +10121,7 @@
             "color2": "",
             "type2": "Land \u2014 Forest Island",
             "cost2": "",
-            "rules_text2": "[i](You can play this side. {T}: Add {G} or {U}.)[/i]\nCrash 3/L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
+            "rules_text2": "[i](You can play this side. {T}: Add {G} or {U}.)[/i]\nCrash {3}L [i](When this land enters, sacrifice it unless you pay 3 life.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -10130,7 +10130,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!group inverted"
         },
         {
             "card_name": "Fieldmist Observatory",
@@ -10151,7 +10151,7 @@
             "alias": "",
             "position": "461",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Mistvein Observatory",
@@ -10172,7 +10172,7 @@
             "alias": "",
             "position": "462",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Veinfire Observatory",
@@ -10193,7 +10193,7 @@
             "alias": "",
             "position": "463",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Firewild Observatory",
@@ -10214,7 +10214,7 @@
             "alias": "",
             "position": "464",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Wildfield Observatory",
@@ -10235,7 +10235,7 @@
             "alias": "",
             "position": "465",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Fieldvein Observatory",
@@ -10256,7 +10256,7 @@
             "alias": "",
             "position": "466",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Mistfire Observatory",
@@ -10277,7 +10277,7 @@
             "alias": "",
             "position": "467",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Veinwild Observatory",
@@ -10298,7 +10298,7 @@
             "alias": "",
             "position": "468",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Firefield Observatory",
@@ -10319,7 +10319,7 @@
             "alias": "",
             "position": "469",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Wildmist Observatory",
@@ -10340,7 +10340,7 @@
             "alias": "",
             "position": "470",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group observatory\nNeeds print"
         },
         {
             "card_name": "Spawn Plains",
@@ -10361,7 +10361,7 @@
             "alias": "",
             "position": "471",
             "rotated": false,
-            "notes": ""
+            "notes": "!group spawnland"
         },
         {
             "card_name": "Spawn Island",
@@ -10382,7 +10382,7 @@
             "alias": "",
             "position": "472",
             "rotated": false,
-            "notes": ""
+            "notes": "!group spawnland"
         },
         {
             "card_name": "Spawn Swamp",
@@ -10403,7 +10403,7 @@
             "alias": "",
             "position": "473",
             "rotated": false,
-            "notes": ""
+            "notes": "!group spawnland"
         },
         {
             "card_name": "Spawn Mountain",
@@ -10424,7 +10424,7 @@
             "alias": "",
             "position": "474",
             "rotated": false,
-            "notes": ""
+            "notes": "!group spawnland"
         },
         {
             "card_name": "Spawn Forest",
@@ -10445,7 +10445,7 @@
             "alias": "",
             "position": "475",
             "rotated": false,
-            "notes": ""
+            "notes": "!group spawnland"
         },
         {
             "card_name": "Fieldmist Tunnel",
@@ -10466,7 +10466,7 @@
             "alias": "",
             "position": "476",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Mistvein Tunnel",
@@ -10487,7 +10487,7 @@
             "alias": "",
             "position": "477",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Veinfire Tunnel",
@@ -10508,7 +10508,7 @@
             "alias": "",
             "position": "478",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Firewild Tunnel",
@@ -10529,7 +10529,7 @@
             "alias": "",
             "position": "479",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Wildfield Tunnel",
@@ -10550,7 +10550,7 @@
             "alias": "",
             "position": "480",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Fieldvein Tunnel",
@@ -10571,7 +10571,7 @@
             "alias": "",
             "position": "481",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Mistfire Tunnel",
@@ -10592,7 +10592,7 @@
             "alias": "",
             "position": "482",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Veinwild Tunnel",
@@ -10613,7 +10613,7 @@
             "alias": "",
             "position": "483",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Firefield Tunnel",
@@ -10634,7 +10634,7 @@
             "alias": "",
             "position": "484",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Wildmist Tunnel",
@@ -10655,7 +10655,7 @@
             "alias": "",
             "position": "485",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tunnel"
         },
         {
             "card_name": "Fieldmist Crossing",
@@ -10676,7 +10676,7 @@
             "alias": "",
             "position": "486",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Mistvein Crossing",
@@ -10697,7 +10697,7 @@
             "alias": "",
             "position": "487",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Veinfire Crossing",
@@ -10718,7 +10718,7 @@
             "alias": "",
             "position": "488",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Firewild Crossing",
@@ -10739,7 +10739,7 @@
             "alias": "",
             "position": "489",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Wildfield Crossing",
@@ -10760,7 +10760,7 @@
             "alias": "",
             "position": "490",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Fieldvein Crossing",
@@ -10781,7 +10781,7 @@
             "alias": "",
             "position": "491",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Mistfire Crossing",
@@ -10802,7 +10802,7 @@
             "alias": "",
             "position": "492",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Veinwild Crossing",
@@ -10823,7 +10823,7 @@
             "alias": "",
             "position": "493",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Firefield Crossing",
@@ -10844,7 +10844,7 @@
             "alias": "",
             "position": "494",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Wildmist Crossing",
@@ -10865,7 +10865,7 @@
             "alias": "",
             "position": "495",
             "rotated": false,
-            "notes": ""
+            "notes": "!group crossing"
         },
         {
             "card_name": "Fieldmist Quarry",
@@ -10886,7 +10886,7 @@
             "alias": "",
             "position": "496",
             "rotated": false,
-            "notes": "Strictly better than Mana-Waits, usually better than ruins"
+            "notes": "!group quarry\nStrictly better than Mana-Waits, usually better than ruins"
         },
         {
             "card_name": "Mistvein Quarry",
@@ -10907,7 +10907,7 @@
             "alias": "",
             "position": "497",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Veinfire Quarry",
@@ -10928,7 +10928,7 @@
             "alias": "",
             "position": "498",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Firewild Quarry",
@@ -10949,7 +10949,7 @@
             "alias": "",
             "position": "499",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Wildfield Quarry",
@@ -10970,7 +10970,7 @@
             "alias": "",
             "position": "500",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Fieldvein Quarry",
@@ -10991,7 +10991,7 @@
             "alias": "",
             "position": "501",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Mistfire Quarry",
@@ -11012,7 +11012,7 @@
             "alias": "",
             "position": "502",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Veinwild Quarry",
@@ -11033,7 +11033,7 @@
             "alias": "",
             "position": "503",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Firefield Quarry",
@@ -11054,7 +11054,7 @@
             "alias": "",
             "position": "504",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Wildmist Quarry",
@@ -11075,7 +11075,7 @@
             "alias": "",
             "position": "505",
             "rotated": false,
-            "notes": ""
+            "notes": "!group quarry\n"
         },
         {
             "card_name": "Fieldmist Landfill",
@@ -11096,7 +11096,7 @@
             "alias": "",
             "position": "506",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Mistvein Landfill",
@@ -11117,7 +11117,7 @@
             "alias": "",
             "position": "507",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Veinfire Landfill",
@@ -11138,7 +11138,7 @@
             "alias": "",
             "position": "508",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Firewild Landfill",
@@ -11159,7 +11159,7 @@
             "alias": "",
             "position": "509",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Wildfield Landfill",
@@ -11180,7 +11180,7 @@
             "alias": "",
             "position": "510",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Fieldvein Landfill",
@@ -11201,7 +11201,7 @@
             "alias": "",
             "position": "511",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Mistfire Landfill",
@@ -11222,7 +11222,7 @@
             "alias": "",
             "position": "512",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Veinwild Landfill",
@@ -11243,7 +11243,7 @@
             "alias": "",
             "position": "513",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Firefield Landfill",
@@ -11264,7 +11264,7 @@
             "alias": "",
             "position": "514",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "Wildmist Landfill",
@@ -11285,7 +11285,7 @@
             "alias": "",
             "position": "515",
             "rotated": false,
-            "notes": "Needs print"
+            "notes": "!group landfill\nNeeds print"
         },
         {
             "card_name": "City of Friends",
@@ -13667,7 +13667,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": ""
+            "notes": "!group howl"
         },
         {
             "card_name": "Nullmist Howl",
@@ -13700,7 +13700,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": ""
+            "notes": "!group howl"
         },
         {
             "card_name": "Nullvein Howl",
@@ -13733,7 +13733,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": ""
+            "notes": "!group howl"
         },
         {
             "card_name": "Nullfire Howl",
@@ -13766,7 +13766,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": ""
+            "notes": "!group howl"
         },
         {
             "card_name": "Nullwild Howl",
@@ -13799,7 +13799,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": ""
+            "notes": "!group howl"
         },
         {
             "card_name": "Eulod of the Howling Mine",
@@ -13844,5 +13844,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

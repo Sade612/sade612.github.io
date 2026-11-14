@@ -1,4 +1,772 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Nimbus Naiad
+rules_text: Bestow {4}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => Bestow {4}{U} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+special_text: Bestow {4}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => Bestow {4}{U} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+
+Nullpriest of Oblivion
+rules_text: Kicker {3}{B}: Summon target dead creature you own.
+Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+Menace [i](This creature can't be blocked except by two or more creatures.)[/i] => Kicker {3}{B}: Summon target dead creature you own.
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+
+Spiteful Returned
+rules_text: Bestow {3}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Whenever this creature attacks, defending player loses 2 life. => Bestow {3}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Whenever this creature attacks, defending player loses 2 life.
+special_text: Bestow {3}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Whenever this creature attacks, defending player loses 2 life. => Bestow {3}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Whenever this creature attacks, defending player loses 2 life.
+
+Baleful Eidolon
+rules_text: Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i] => Bestow {4}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+special_text: Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i] => Bestow {4}{B} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+
+Blight Keeper
+type: Creature — Zombie => Creature — Bat Imp
+
+Snuff Out
+rules_text: Swamp-force 4/L [i](If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.)[/i]
+Destroy target nonblack creature. It can't be regenerated. => Swamp-force {4}L [i](If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.)[/i]
+Destroy target nonblack creature. It can't be regenerated.
+
+Stormcaller of Keranos
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}{U}: Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}{U}: Scry 1. [i](Look at the top card of your library. You may hide it.)[/i]
+
+Spearpoint Oread
+rules_text: Bestow {5}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+First strike [i](This creature deals combat damage before creatures without first strike.)[/i] => Bestow {5}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+First strike [i](This creature deals combat damage before creatures without first strike.)[/i]
+special_text: Bestow {5}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+First strike [i](This creature deals combat damage before creatures without first strike.)[/i] => Bestow {5}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+First strike [i](This creature deals combat damage before creatures without first strike.)[/i]
+
+Nyxborn Rollicker
+rules_text: Bestow {1}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+ => Bestow {1}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+
+special_text: Bestow {1}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+ => Bestow {1}{R} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+
+
+Slice and Dice
+rules_text: Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} [i]({2}{R}, Discard this card: Draw a card.)[/i]
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature. => Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} [i]({2}{R}, P: Draw a card.)[/i]
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.
+
+Captured Sunlight
+rules_text: Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+You gain 4 life. => Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Hide the exiled cards in a random order.)[/i]
+You gain 4 life.
+
+Reason
+rules_text: Scry 3. [i](Look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Scry 3. [i](Look at the top three cards of your library. You may hide any number of them and shelve the rest in any order.)[/i]
+
+Esper Sojourners
+rules_text: When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.
+Cycling {2}{U} [i]({2}{U}, Discard this card: Draw a card.)[/i] => When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.
+Cycling {2}{U} [i]({2}{U}, P: Draw a card.)[/i]
+
+Jund Sojourners
+rules_text: When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.
+Cycling {2}{R} [i]({2}{R}, Discard this card: Draw a card.)[/i] => When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.
+Cycling {2}{R} [i]({2}{R}, P: Draw a card.)[/i]
+
+Hymn of the Wilds
+
+Backup Plan
+
+Sentinel Dispatch
+
+Power Play
+
+Advantageous Proclamation
+
+Fieldmist Chamber
+
+Mistvein Chamber
+
+Veinfire Chamber
+
+Firewild Chamber
+
+Wildfield Chamber
+
+Fieldvein Chamber
+
+Mistfire Chamber
+
+Veinwild Chamber
+
+Firefield Chamber
+
+Wildmist Chamber
+
+Talisman of Progress
+
+Talisman of Dominance
+
+Talisman of Indulgence
+
+Talisman of Impulse
+
+Talisman of Unity
+
+Talisman of Hierarchy
+
+Talisman of Creativity
+
+Talisman of Resilience
+
+Talisman of Conviction
+
+Talisman of Curiosity
+
+Ash-Eye Prowler
+
+Quickwing Prowler
+
+Brimstone Prowler
+
+Furystoke Prowler
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+[i]Bloodrush[/i] — {C}, P: Target attacking creature gets +1/+1 and gains devoid and trample until end of turn. => Devoid [i](This card has no color.)[/i]
+Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]
+[i]Bloodrush[/i] — {C}, P: Target attacking creature gets +1/+1 and gains devoid and trample until end of turn.
+
+Steward of the Void
+
+Chaos Drinker
+rules_text: Devoid [i](This card has no color.)[/i]
+Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i] => Devoid [i](This card has no color.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+
+Arcane Witness
+
+Sludgepoker
+rules_text: Devoid [i](This card has no color.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i] => Devoid [i](This card has no color.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]
+
+Nuclear Prowler
+
+Overthinker
+
+Fieldmist Ravager
+
+Mistvein Ravager
+
+Veinfire Ravager
+
+Firewild Ravager
+rules_text: Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]
+Bushido 2 [i](Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)[/i] => Trample [i](This creature can deal excess combat damage to defending player or planeswalker while attacking.)[/i]
+Bushido 2 [i](When this blocks or becomes blocked, it gets +2/+2 until end of turn.)[/i]
+
+Wildfield Ravager
+
+Fieldvein Ravager
+
+Mistfire Ravager
+
+Veinwild Ravager
+
+Firefield Ravager
+
+Wildmist Ravager
+
+Nullfield Druid
+
+Nullmist Druid
+
+Nullvein Druid
+
+Nullfire Druid
+
+Nullwild Druid
+
+Nullfield Entourage
+
+Nullmist Entourage
+
+Nullvein Entourage
+
+Nullfire Entourage
+
+Nullwild Entourage
+
+Nullfield Envoy
+
+Nullmist Envoy
+
+Nullvein Envoy
+
+Nullfire Envoy
+
+Nullwild Envoy
+
+Nullfield Scion
+
+Nullmist Scion
+
+Nullvein Scion
+
+Nullfire Scion
+
+Nullwild Scion
+
+Sudden Growth
+rules_text: Mirage C => Mirage {C} [i](You may cast this spell for its mirage cost at any time. If you do, it's melting.)[/i]
+
+Seer of Doom
+rules_text: Megamorph {C} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]
+When Seer of Doom is turned face-up, fateseal 1. [i](Look at the top card of an opponent's library, then you may put it on the bottom of that player's library.)[/i] => Megamorph {C} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]
+When Seer of Doom is turned face-up, fateseal 1. [i](Look at the top card of an opponent's library. You may hide it.)[/i]
+
+Agent of Blight
+rules_text: Bestow {1}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i] => Bestow {1}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]
+special_text: Bestow {1}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i] => Bestow {1}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]
+
+Puldge
+rules_text: Bestow {2}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i] => Bestow {2}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]
+special_text: Bestow {2}{C}{C} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i] => Bestow {2}{C}{C} [i](If you cast this spell for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature. While it is, add its size and abilities to enchanted creature.)[/i]
+Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]
+
+Blasted Landscape
+rules_text: {T}: Add {C}.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => {T}: Add {C}.
+Cycling {2} [i]({2}, P: Draw a card.)[/i]
+
+Fieldmist Moon
+
+Mistvein Moon
+
+Veinfire Moon
+
+Firewild Moon
+
+Wildfield Moon
+
+Fieldvein Moon
+
+Mistfire Moon
+
+Veinwild Moon
+
+Firefield Moon
+
+Wildmist Moon
+
+Fieldmist Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {W} or {U}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {W} or {U}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Mistvein Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {U} or {B}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {U} or {B}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Veinfire Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {B} or {R}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {B} or {R}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Firewild Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {R} or {G}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {R} or {G}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Wildfield Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {G} or {W}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {G} or {W}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Fieldvein Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {W} or {B}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {W} or {B}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Mistfire Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {U} or {R}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {U} or {R}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Veinwild Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {B} or {G}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {B} or {G}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Firefield Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {R} or {W}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {R} or {W}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Wildmist Void
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {G} or {U}.)[/i]
+Wastescycling {1}/L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {G} or {U}.)[/i]
+Wastescycling {1}L [i](Pay 1 life, P: Search your library for a Wastes card and add it to your hand.)[/i]
+
+Fieldmist Tripod
+
+Mistvein Tripod
+
+Veinfire Tripod
+
+Firewild Tripod
+
+Wildfield Tripod
+
+Fieldvein Tripod
+
+Mistfire Tripod
+
+Veinwild Tripod
+
+Firefield Tripod
+
+Wildmist Tripod
+
+Fieldmist Nova
+
+Mistvein Nova
+
+Veinfire Nova
+
+Firewild Nova
+
+Wildfield Nova
+
+Fieldvein Nova
+
+Mistfire Nova
+
+Veinwild Nova
+
+Firefield Nova
+
+Wildmist Nova
+
+Fieldmist Mine
+
+Mistvein Mine
+
+Veinfire Mine
+
+Firewild Mine
+
+Wildfield Mine
+
+Fieldvein Mine
+
+Mistfire Mine
+
+Veinwild Mine
+
+Firefield Mine
+
+Wildmist Mine
+
+Fieldmist Tower
+
+Mistvein Tower
+
+Veinfire Tower
+
+Firewild Tower
+
+Wildfield Tower
+
+Fieldvein Tower
+
+Mistfire Tower
+
+Veinwild Tower
+
+Firefield Tower
+
+Wildmist Tower
+
+Fieldmist Power-Plant
+
+Mistvein Power-Plant
+
+Veinfire Power-Plant
+
+Firewild Power-Plant
+
+Wildfield Power-Plant
+
+Fieldvein Power-Plant
+
+Mistfire Power-Plant
+
+Veinwild Power-Plant
+
+Firefield Power-Plant
+
+Wildmist Power-Plant
+
+Fieldmist Getaway
+
+Mistvein Getaway
+
+Veinfire Getaway
+
+Firewild Getaway
+
+Wildfield Getaway
+
+Fieldvein Getaway
+
+Mistfire Getaway
+
+Veinwild Getaway
+
+Firefield Getaway
+
+Wildmist Getaway
+
+Fieldmist Wastes
+
+Mistvein Wastes
+
+Veinfire Wastes
+
+Firewild Wastes
+
+Wildfield Wastes
+
+Fieldvein Wastes
+
+Mistfire Wastes
+
+Veinwild Wastes
+
+Firefield Wastes
+
+Wildmist Wastes
+
+Fieldmist Wasteland
+
+Mistvein Wasteland
+
+Veinfire Wasteland
+
+Firewild Wasteland
+
+Wildfield Wasteland
+
+Fieldvein Wasteland
+
+Mistfire Wasteland
+
+Veinwild Wasteland
+
+Firefield Wasteland
+
+Wildmist Wasteland
+
+Fieldmist Farm
+
+Mistvein Farm
+
+Veinfire Farm
+
+Firewild Farm
+
+Wildfield Farm
+
+Fieldvein Farm
+
+Mistfire Farm
+
+Veinwild Farm
+
+Firefield Farm
+
+Wildmist Farm
+
+Fieldmist Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {W}, or {U}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {W}, or {U}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Mistvein Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {U}, or {B}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {U}, or {B}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Veinfire Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {B}, or {R}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {B}, or {R}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Firewild Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {R}, or {G}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {R}, or {G}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Wildfield Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {G}, or {W}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {G}, or {W}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Fieldvein Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {W}, or {B}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {W}, or {B}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Mistfire Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {U}, or {R}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {U}, or {R}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Veinwild Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {B}, or {G}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {B}, or {G}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Firefield Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {R}, or {W}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {R}, or {W}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Wildmist Hovel
+rules_text: [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {G}, or {U}.)[/i]
+Cycling 3/L [i](Pay 3 life, P: Draw a card.)[/i] => [i](Slow permanents enter tapped.)[/i]
+[i]({T}: Add {C}, {G}, or {U}.)[/i]
+Cycling {3}L [i](Pay 3 life, P: Draw a card.)[/i]
+
+Bant Trifilter
+
+Esper Trifilter
+
+Grixis Trifilter
+
+Jund Trifilter
+
+Naya Trifilter
+
+Abzan Trifilter
+
+Jeskai Trifilter
+
+Sultai Trifilter
+
+Mardu Trifilter
+
+Temur Trifilter
+
+Inverted Tundra
+
+Inverted Underground Sea
+
+Inverted Badlands
+
+Inverted Taiga
+
+Inverted Savannah
+
+Inverted Scrubland
+
+Inverted Volcanic Island
+
+Inverted Bayou
+
+Inverted Plateau
+
+Inverted Tropical Island
+
+Fieldmist Observatory
+
+Mistvein Observatory
+
+Veinfire Observatory
+
+Firewild Observatory
+
+Wildfield Observatory
+
+Fieldvein Observatory
+
+Mistfire Observatory
+
+Veinwild Observatory
+
+Firefield Observatory
+
+Wildmist Observatory
+
+Spawn Plains
+
+Spawn Island
+
+Spawn Swamp
+
+Spawn Mountain
+
+Spawn Forest
+
+Fieldmist Tunnel
+
+Mistvein Tunnel
+
+Veinfire Tunnel
+
+Firewild Tunnel
+
+Wildfield Tunnel
+
+Fieldvein Tunnel
+
+Mistfire Tunnel
+
+Veinwild Tunnel
+
+Firefield Tunnel
+
+Wildmist Tunnel
+
+Fieldmist Crossing
+
+Mistvein Crossing
+
+Veinfire Crossing
+
+Firewild Crossing
+
+Wildfield Crossing
+
+Fieldvein Crossing
+
+Mistfire Crossing
+
+Veinwild Crossing
+
+Firefield Crossing
+
+Wildmist Crossing
+
+Fieldmist Quarry
+
+Mistvein Quarry
+
+Veinfire Quarry
+
+Firewild Quarry
+
+Wildfield Quarry
+
+Fieldvein Quarry
+
+Mistfire Quarry
+
+Veinwild Quarry
+
+Firefield Quarry
+
+Wildmist Quarry
+
+Fieldmist Landfill
+
+Mistvein Landfill
+
+Veinfire Landfill
+
+Firewild Landfill
+
+Wildfield Landfill
+
+Fieldvein Landfill
+
+Mistfire Landfill
+
+Veinwild Landfill
+
+Firefield Landfill
+
+Wildmist Landfill
+
+Nullfield Howl
+
+Nullmist Howl
+
+Nullvein Howl
+
+Nullfire Howl
+
+Nullwild Howl
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
