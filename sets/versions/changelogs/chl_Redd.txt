@@ -1,4 +1,530 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Fieldmist Chamber
+
+Mistvein Chamber
+
+Veinfire Chamber
+
+Firewild Chamber
+
+Wildfield Chamber
+
+Fieldvein Chamber
+
+Mistfire Chamber
+
+Veinwild Chamber
+
+Firefield Chamber
+
+Wildmist Chamber
+
+Talisman of Progress
+
+Talisman of Dominance
+
+Talisman of Indulgence
+
+Talisman of Impulse
+
+Talisman of Unity
+
+Talisman of Hierarchy
+
+Talisman of Creativity
+
+Talisman of Resilience
+
+Talisman of Conviction
+
+Talisman of Curiosity
+
+Ash-Eye Prowler
+
+Quickwing Prowler
+
+Brimstone Prowler
+
+Furystoke Prowler
+
+Steward of the Void
+
+Chaos Drinker
+
+Arcane Witness
+
+Sludgepoker
+
+Nuclear Prowler
+
+Overthinker
+
+Fieldmist Ravager
+
+Mistvein Ravager
+
+Veinfire Ravager
+
+Firewild Ravager
+
+Wildfield Ravager
+
+Fieldvein Ravager
+
+Mistfire Ravager
+
+Veinwild Ravager
+
+Firefield Ravager
+
+Wildmist Ravager
+
+Nullfield Druid
+
+Nullmist Druid
+
+Nullvein Druid
+
+Nullfire Druid
+
+Nullwild Druid
+
+Nullfield Entourage
+
+Nullmist Entourage
+
+Nullvein Entourage
+
+Nullfire Entourage
+
+Nullwild Entourage
+
+Nullfield Envoy
+
+Nullmist Envoy
+
+Nullvein Envoy
+
+Nullfire Envoy
+
+Nullwild Envoy
+
+Nullfield Scion
+
+Nullmist Scion
+
+Nullvein Scion
+
+Nullfire Scion
+
+Nullwild Scion
+
+Fieldmist Moon
+
+Mistvein Moon
+
+Veinfire Moon
+
+Firewild Moon
+
+Wildfield Moon
+
+Fieldvein Moon
+
+Mistfire Moon
+
+Veinwild Moon
+
+Firefield Moon
+
+Wildmist Moon
+
+Fieldmist Void
+
+Mistvein Void
+
+Veinfire Void
+
+Firewild Void
+
+Wildfield Void
+
+Fieldvein Void
+
+Mistfire Void
+
+Veinwild Void
+
+Firefield Void
+
+Wildmist Void
+
+Fieldmist Tripod
+
+Mistvein Tripod
+
+Veinfire Tripod
+
+Firewild Tripod
+
+Wildfield Tripod
+
+Fieldvein Tripod
+
+Mistfire Tripod
+
+Veinwild Tripod
+
+Firefield Tripod
+
+Wildmist Tripod
+
+Fieldmist Nova
+
+Mistvein Nova
+
+Veinfire Nova
+
+Firewild Nova
+
+Wildfield Nova
+
+Fieldvein Nova
+
+Mistfire Nova
+
+Veinwild Nova
+
+Firefield Nova
+
+Wildmist Nova
+
+Fieldmist Mine
+
+Mistvein Mine
+
+Veinfire Mine
+
+Firewild Mine
+
+Wildfield Mine
+
+Fieldvein Mine
+
+Mistfire Mine
+
+Veinwild Mine
+
+Firefield Mine
+
+Wildmist Mine
+
+Fieldmist Tower
+
+Mistvein Tower
+
+Veinfire Tower
+
+Firewild Tower
+
+Wildfield Tower
+
+Fieldvein Tower
+
+Mistfire Tower
+
+Veinwild Tower
+
+Firefield Tower
+
+Wildmist Tower
+
+Fieldmist Power-Plant
+
+Mistvein Power-Plant
+
+Veinfire Power-Plant
+
+Firewild Power-Plant
+
+Wildfield Power-Plant
+
+Fieldvein Power-Plant
+
+Mistfire Power-Plant
+
+Veinwild Power-Plant
+
+Firefield Power-Plant
+
+Wildmist Power-Plant
+
+Fieldmist Getaway
+
+Mistvein Getaway
+
+Veinfire Getaway
+
+Firewild Getaway
+
+Wildfield Getaway
+
+Fieldvein Getaway
+
+Mistfire Getaway
+
+Veinwild Getaway
+
+Firefield Getaway
+
+Wildmist Getaway
+
+Fieldmist Wastes
+
+Mistvein Wastes
+
+Veinfire Wastes
+
+Firewild Wastes
+
+Wildfield Wastes
+
+Fieldvein Wastes
+
+Mistfire Wastes
+
+Veinwild Wastes
+
+Firefield Wastes
+
+Wildmist Wastes
+
+Fieldmist Wasteland
+
+Mistvein Wasteland
+
+Veinfire Wasteland
+
+Firewild Wasteland
+
+Wildfield Wasteland
+
+Fieldvein Wasteland
+
+Mistfire Wasteland
+
+Veinwild Wasteland
+
+Firefield Wasteland
+
+Wildmist Wasteland
+
+Fieldmist Farm
+
+Mistvein Farm
+
+Veinfire Farm
+
+Firewild Farm
+
+Wildfield Farm
+
+Fieldvein Farm
+
+Mistfire Farm
+
+Veinwild Farm
+
+Firefield Farm
+
+Wildmist Farm
+
+Fieldmist Hovel
+
+Mistvein Hovel
+
+Veinfire Hovel
+
+Firewild Hovel
+
+Wildfield Hovel
+
+Fieldvein Hovel
+
+Mistfire Hovel
+
+Veinwild Hovel
+
+Firefield Hovel
+
+Wildmist Hovel
+
+Bant Trifilter
+
+Esper Trifilter
+
+Grixis Trifilter
+
+Jund Trifilter
+
+Naya Trifilter
+
+Abzan Trifilter
+
+Jeskai Trifilter
+
+Sultai Trifilter
+
+Mardu Trifilter
+
+Temur Trifilter
+
+Inverted Tundra
+
+Inverted Underground Sea
+
+Inverted Badlands
+
+Inverted Taiga
+
+Inverted Savannah
+
+Inverted Scrubland
+
+Inverted Volcanic Island
+
+Inverted Bayou
+
+Inverted Plateau
+
+Inverted Tropical Island
+
+Fieldmist Observatory
+
+Mistvein Observatory
+
+Veinfire Observatory
+
+Firewild Observatory
+
+Wildfield Observatory
+
+Fieldvein Observatory
+
+Mistfire Observatory
+
+Veinwild Observatory
+
+Firefield Observatory
+
+Wildmist Observatory
+
+Spawn Plains
+
+Spawn Island
+
+Spawn Swamp
+
+Spawn Mountain
+
+Spawn Forest
+
+Fieldmist Tunnel
+
+Mistvein Tunnel
+
+Veinfire Tunnel
+
+Firewild Tunnel
+
+Wildfield Tunnel
+
+Fieldvein Tunnel
+
+Mistfire Tunnel
+
+Veinwild Tunnel
+
+Firefield Tunnel
+
+Wildmist Tunnel
+
+Fieldmist Crossing
+
+Mistvein Crossing
+
+Veinfire Crossing
+
+Firewild Crossing
+
+Wildfield Crossing
+
+Fieldvein Crossing
+
+Mistfire Crossing
+
+Veinwild Crossing
+
+Firefield Crossing
+
+Wildmist Crossing
+
+Fieldmist Quarry
+
+Mistvein Quarry
+
+Veinfire Quarry
+
+Firewild Quarry
+
+Wildfield Quarry
+
+Fieldvein Quarry
+
+Mistfire Quarry
+
+Veinwild Quarry
+
+Firefield Quarry
+
+Wildmist Quarry
+
+Fieldmist Landfill
+
+Mistvein Landfill
+
+Veinfire Landfill
+
+Firewild Landfill
+
+Wildfield Landfill
+
+Fieldvein Landfill
+
+Mistfire Landfill
+
+Veinwild Landfill
+
+Firefield Landfill
+
+Wildmist Landfill
+
+Nullfield Howl
+
+Nullmist Howl
+
+Nullvein Howl
+
+Nullfire Howl
+
+Nullwild Howl
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
